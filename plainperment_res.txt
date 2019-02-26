@@ -1,0 +1,153 @@
+
+
+First Name: Troy 
+Middle: L. 
+Last Name: Perment
+Address: Irving TX. 75038
+Email: troy_perment@yahoo.com
+Phone: 214-991-8185
+
+Work History
+Company: Vizient 
+Title: Director of Data Governance & Enterprise Architecture		
+Dates: 05/01/2014 to present
+Location: Irving,TX
+•	Responsible for the strategic direction & execution of a Enterprise Data Governance Program.
+•	Drive decision-making and action on data governance organization and Operations.
+•	Ensure timely escalation of roadblocks, risks, & approvals.
+•	Performed vendor management.
+•	Oversee the integrity, usability, compliance and security of all corporate data assets.
+•	Lead improvements in IT data stewardship & Analytics & Metrics Reporting through execution of the tactical roadmap. 
+•	Spearheaded Strategic Alliance Development to formulate data strategies to complement an evolving business strategy.
+•	Devised big data strategy using Hadoop and Azure cloud technologies. 
+•	Develop and facilitate the creation of application and technology roadmaps that support efficient and effective provisioning and operation of IT services for the enterprise.
+•	Leveraged the architecture in support of enterprise system selection and IT portfolio management.
+•	Lead the alignment of enterprise strategic objectives and IT organizational capabilities, including the identification and analysis of enterprise business drivers to create technical solutions; analyzing industry, technology and market trends to determine enterprise impacts.
+•	Serve as Chairman of Data Governance Council and advisor to Data Governance Steering Committee. Comprised of those in roles of vice president, director and sr director.
+•	Lead Solution Architects & senior developers/engineers in developing and maintaining a complete set of architectural views within the enterprise business viewpoints.
+•	Operationalize the business strategy by developing & presenting actionable plans to cause Profitability improvement.
+•	Work with business leaders to reengineer business processes, define business and system requirements, conduct process and data modeling, and lead enterprise architecture framework development.
+•	Make decisions on proper centralized methodologies for data intake, usage, propagation and security.
+		
+Company: Lanyon 
+Title: Chief Data Architect		
+Dates: 2013 to 2014
+Location: Dallas,TX
+Travel & Hospitality
+•	Act as liaison to the company’s BI product managers & developers, developing solutions to design problems, increasing efficiency, and recommending best practices for data warehouse-driven reporting & analytics.
+•	Directed aspects of customer requirements analysis, review technical specification for completeness and recommend appropriate business systems and IT infrastructure.
+•	Implemented test, staging and production environment and developed strategies to keep synchronized.
+Reporting to Director
+•	Write and optimize packages, stored procedures, functions, views, etc. using Microsoft T-SQL and Oracle PL/SQL.
+		
+Title: Principle & Owner
+Company: GoogleGMOncorTexasInstrumentsEpsilon
+Dates 2009 to 2013
+Location: Dallas,TX
+
+•	Led team in development of corporate business definitions and master data strategies. Reporting to the Director of Mobile Commerce at Google
+•	Captured and communicated of business needs from executives and C-level management.
+•	Developed common enterprise vocabulary enabling the business to be explained in fundamental, descriptive and associative data terms.
+•	Leveraged domain expertise, business acumen, and experience to influence decisions of business leadership, Product Delivery groups and IT.
+•	Review and evaluate business initiatives and project activities for compliance with technology and development guidelines and standards.
+•	Integrate suggestions, updates, and innovations into overall business plans.
+
+•	As Sr Architect, Guided technical project teams and the business on strategic technical solutions to business needs. Reporting to the incumbent Associate Vice President(AVP) at General Motors
+•	Created and documented logical Data Integration strategies for data flows between disparate source/target systems and the Enterprise Data Warehouse using Enterprise Architect and Visio.
+•	Envisioned, documented and enforced best practices, standards & Data Quality rules 
+•	Translated business requirements into specific technical requirements.
+•	Collaborated with Data Architects to design and communicate complex data integration requirements.
+•	Investigated processes to determine the optimal method to implement changes while minimizing.
+•	As Sr Data Architect, Led team in architecting, developing and implementing production data warehouse/data mart. Reporting through to the Director of business operations of Oncor
+•	Conducted solution sessions between business and technical teams.
+•	Directed the design, architecting & development of scalable data warehouses 
+•	Analyzed trends to discover patterns & anticipate opportunities that impact business and propose viable solutions.
+•	Evaluated, analyzed and recommended changes to existing systems, business tools, processes and workflows.
+•	Solicited requirements via interviews, document analysis, requirements workshops to ensure requirements understood.
+•	As Report Developer and business analyst, Lead & participated in product life cycle of new system solutions or modifications to existing systems at Texas Instruments reporting up to the sr. director.
+•	Directed the implementation of consistent data security strategies & led enterprise data security auditing process.
+•	Worked with business leaders & project managers defining & translate needs into requirements.
+•	Provided guidance regarding system capabilities & emerging technologies.
+•	Developed metrics using Business Objects to report financial, human resource data & KPI’s.
+•	Evaluated Business Intelligence (BI) reporting requirements & implement them through existing BI architecture.
+•	Developed training material & teach courses in support of business application systems.
+•	As business analyst, Used knowledge of direct & digital marketing concepts in large scale campaign development reporting up to project manager at Epsilon
+•	Built amiable relationships with clients & represent business needs to the technology team.
+•	Lead development team in understanding & implementing business requirements using Visio process diagrams.
+•	Collaborated with stake-holders in scoping projects, allocating resources (including off-shore) & estimating hours.
+•	Directed the business requirements process from gathering to execution.
+
+Company: Fiserv 
+Title: Sr. Technical Consultant.
+Dates: 2006 to 2009
+Location: Dallas,TX
+
+Financial Services
+•	Acted as a liaison between the business & technical units while mapping functional business requirements. 
+•	Performed Research & Development of new banking product features, processes & functions.
+•	Collaborate with engineers, statisticians, business analysts to review technical designs & code.
+•	Document system requirements & processes throughout the system development life cycle (SDLC).
+•	Analyze existing processes to make recommendations for improvement using data mining techniques.
+•	Develop reports, stored procedures & queries using SQL Server 2005.
+
+Company: Pepsico
+Title: Business Systems Analyst
+Dates: 2005 to 2006
+Location: Plano,TX
+
+Food & Beverage
+•	Compose & present succinct proposals to senior leadership.
+•	Extracted data from DB2 mainframe & databases with SQL queries to model delivery optimization strategies.
+•	Developed training materials used to remotely instruct users on system enhancements & build online training tool.
+•	Scripted file conversion program to create XML uploads for i2 transportation systems (OLAP) using Visual Basic.
+
+Company: TE Connectivity 
+Title: Database Administrator
+Dates: 2004 to 2005
+Location: Dallas,TX
+
+Manufacturing
+•	Managed & developed object oriented databases & software applications.
+•	Analyzed data & produced Microsoft Access reports with pivot charts & tables.
+•	Constructed Excel spreadsheets using macros, Business Objects & VB.
+•	Designed, developed & maintained HTML webpage including dashboards.
+
+Education
+School: University of North Texas,
+Degree: Bachelor’s of Science	
+Major: Business Computer Information Systems
+
+School: State University of New York, Troy
+Degree: Associate of Science	
+Major: Business Administration	
+
+Summary
+Business & IT Director for the nation’s largest member-owned health care services company, serving thousands of health care organizations across the nation with a combined annual spend of over $100 billion with 15 years of progressive experience. Communicates and works effectively with Vice President, VP, SVP and directors. Leverages a broad technical background and utilizes a highly strategic mindset to develop & execute initiatives. Success has been achieved in various areas of business & IT, including business planning, development, and enterprise solutions delivery.
+
+Abilities
+•	Strategic Planning
+•	Roadmap Development	•	Organizational Design
+•	Portfolio Management	•	Product Delivery
+•	Data Management
+Solutions Delivered
+•	Modern Data Strategy and Roadmap
+•	Operational Data Governance Framework
+•	Organizational Change and Restructuring
+•	Business Intelligence and Data Analytics (BI)
+•	Enterprise Data Warehousing (EDW)
+Business Skills
+Business Strategy | Solution Development | Executive Communication
+Product Delivery | Cross-Functional Leadership | Vendor Management
+Client Engagement | P&L Accountability | Business Planning & Presentation
+Industries
+•	Healthcare
+•	Manufacturing	•	Financial Services
+•	Telecommunications	•	Mobile Commerce
+•	Travel & Hospitality
+Technical Toolbox
+App Services	Power Point, Visio, Excel, Tableau, Business Objects 
+Big Data	Hadoop – Pig, Hive, ElasticSearch, Ranger
+Cloud Services	Amazon Web Services (AWS), Azure
+Database	SQL Server, Oracle, DB2 
+Programming	T-SQL, PL/SQL HTML, COBOL, Java, Visual Basic, XML
+
