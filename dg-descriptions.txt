@@ -1,0 +1,899 @@
+Director, Data Governance is responsible for leading a cross-functional team of business and technical leaders to establish effective and sustainable data governance operating model over shared enterprise data assets, including definition of clear roles and responsibilities for effective stewardship of corporate clinical and genomic data , development and implementation of data governance policies and procedures, data stewardship programs and data quality monitoring.
+
+Responsibilities
+Define and implement a data governance operating model to achieve business objectives
+Define and communicate roles and responsibilities within the data governance operating model
+Help build understanding of and support for data governance processes across the organization
+Manage data governance presentations, metrics, dashboards, and overall progress communications
+Identify data domain stewards and formalize data domain stewardship responsibilities
+Facilitate development and implementation of CDISC standards
+Engage data stewards for each data domain or business area and coordinate them to achieve defined program goals
+Define and communicate formal standards, policies, and processes regarding data stewardship
+Establish a repository for shared reference data, i.e. MDM and establish stewardship practices around its maintenance
+Establish a repository for critical metadata related to shared enterprise data assets, and establish stewardship practices around its maintenance
+Work with responsible parties to ensure that data standards are in place and that data dictionaries for individual data assets are sufficiently comprehensive, accurate and accessible
+Work with business functions across bluebird to build a shared business glossary and standards around shared data domains to enhance the ability to leverage data cross-functionally
+Establish working groups to ensure consistency and adoption of governance across data domains
+Create and execute on a strategic roadmap for measuring, baselining, enhancing, and sustaining data quality improvements over time
+Implement a metadata solution to efficiently catalog available data sets and elements, their definitions, relationships, and usage context
+Facilitate the development and implementation of data standards and data use standards
+Collaborate with IT and Clinical Programming to determine whether data is appropriate for storage in the data repository and establishing the process of data transmission into the data repository and its upkeep
+Work with vendors to facilitate the intake of data and to respond to questions regarding data governance
+Work closely with the Legal / Compliance team, the IT team to identify issues and effectively resolve data and compliance related problems.
+Stay up-to-date and informed on emerging practices for improving data governance practices
+Advance framework, metrics and reporting to guarantee progress can be measured, evaluated, and continually enhanced
+
+
+Knowledge, Skills, And Abilities Required
+Strong business acumen and ability to collaborate with business partners to identify needs and opportunities for improved data governance and data standards
+Strong leadership skills with ability to build and inspire teams and develop relationships with multiple stakeholder groups to drive adoption and deliver expected benefits.
+Proven ability to coordinate cross-functional teams of IT professionals, business executives, and other key stakeholders towards common goals and objectives
+Develop eCRF data standards according to CDASH
+Lead implementation of eCRF Global library
+Lead implementation of CDISC data standards
+Significant experience with development and implementation of data governance standards, processes, and solutions
+Experience with clinical data management, data dictionaries, metadata, and data quality
+Must be able to work in a highly matrixed fast-paced environment with changing priorities and deadlines
+GCP knowledge
+Strong understanding of clinical trial data
+Excellent planning, negotiation, prioritization, problem solving, and organization skills
+Able to operate in areas of uncertainty and ambiguity
+Able to think strategically and deliver tactically around all aspects of data governance
+Outstanding written and verbal communication skills in conveying vision and the practical tactics for accomplishing measurable and dependable improvements
+Strong interpersonal skills and the ability to quickly build and sustain positive relationships
+
+
+Education/Experience
+Bachelor’s degree, preferably in health science or related field
+Eight to ten years of experience, preferably in a clinical data or technology role
+Experience with developing and implementing data governance policies and procedures
+Experience dealing with highly varied data sets including very large and those containing Personal Information (PI), Patient-Level Health Information (PHI), and Personal Data under the EU's General Data Protection Regulation (GDPR)
+The Director of Enterprise Data Governance is responsible for establishing and enforcing standards for all practices and procedures regarding enterprise data management and utilization. Data Governance is a group which provides critical support for day to day operations and key corporate programs. This position requires prior experience in data architecture, data management, data integration, big data, analytics and/or business reporting preferably in a healthcare environment. The incumbent will spend the majority of their time managing a team of data modelers and working across multiple business units within the organization to ensure optimal data management practices across all levels of management in a variety of internal departments and external stakeholders. The incumbent should also have technical experience using programs to extract, analyze, and manage data from a variety of disparate data sources and systems. The incumbent should be able to work independently with minimal involvement from management and lead organization to improve the team’s quality and efficiency.
+
+The incumbent should be able to supervise and oversee Data Governance Process and manage Analysts, Technicians, Interns and Contractors in data and business analysis, data modeling consulting, and system and data problem resolution related to information. This position will also be charged with coordinating with Lead Architects and other Data & Informatics staff to ensure enterprise governance and stewardship policies are enforced.
+
+Principal Accountabilities
+
+Under the general direction of a Sr. Director of Informatics, the incumbent’s accountabilities may include, but are not limited to, the following:
+
+Develop and maintain standards for Enterprise Data Governance for existing and future data repositories and applications while ensuring the integrity of all data processes. Coordinate projects that involve multiple team members and oversee the gathering of analyses into a timely, accurate, comprehensive and understandable format. Lead Data & Informatics meetings and facilitate information exchange with people in other departments and/or external customers. Expand knowledge of the systems, methods, practices, procedures, policies, regulations followed at the Operations Center and develop technical skills including but not limited to Big Data, SQL and analytic software.
+Lead development and management of business and technical metadata development and sharing tools and practices. Supervise and oversee Data Governance team. Regularly represent the department at inter departmental meetings as needs dictate.
+
+Facilitate Data Governance process and ensure timely completion of all data governance related artifacts required for production, operations, and development projects. Ensure corporate systems contain quality data and are available according to SLR’s. This may include some or all of the specific skills and functions below:Independently work with business units and management to direct gathering and understanding of business requirements for new project requests.Ensure the accuracy and presentation of reports and analyses. Interpret data and provide analytical commentaries to explain defects or highlight significant findings. Create documentation and specifications for new production and be able to effectively communicate related methodologies to business users and internal staff.Participate in work groups to assist in sharing data business and technical knowledge to perform quality reviews, audits or supporting data in development or post-implementation.
+
+Contribute to the continual improvement of the organization by developing efficient methods for automating data processes; maintaining data integrity, and expanding the use of new technologies as the need arises. Ensure clear and concise documentation for all projects. Excellent organizational skills and ability to set priorities and handle multiple projects concurrently.
+Perform individual team administrative duties including status reporting, daily project time reporting, and self/peer/project assessments.
+
+Supervisory Responsibility
+
+This position will require supervision of a team of full time direct reports and contingent workers
+
+Qualification Requirements
+
+Required Experience/Skills/Abilities
+A college degree in Information Systems, Computer Science, or a related discipline OR equivalent experience. Experience must include 12 or more years of data management, data governance, data architecture, analytics and/or business reporting experience preferably in a healthcare or related environment.
+Experience in establishing and managing data governance process and procedures across multiple business units.
+Experience in developing tools in Big Data and traditional DW environments in support of Data Governance and master data management.
+Additionally, this position requires demonstrated proficiency with multiple reporting applications and tools, including MS Excel, Access, Word, and SQL/database querying.
+Excellent analytical skills. Must be able to not only extract and manipulate data but understand what the data represents; to review information critically and ensure that it is accurate and reasonable within the context that it is presented.
+The ability to work independently and lead a team.
+Excellent leadership and organizational skills. Must be flexible and willing to work additional hours as necessary to complete work during critical deadlines and manage multiple projects in a fast-paced environment.
+Good oral and written communications abilities; strong interpersonal skills for customer interfacing.
+Demonstrated high-level skills in at least one of the following: logical and physical applications design; technical documentation; full-cycle system development; big data design, networking; security; web and/or web application server administration; NT, UNIX, and/or mainframe systems administration. Strong knowledge and demonstrated ability to manage SDLC processes.
+
+Preferred: Masters in Computer Science or Business Administration or related field.
+
+Department
+
+Department:Informatics Data Governance
+Data is our business, protecting it is paramount. As Sr. Director, Data Governance, you will provide leadership and direction in the area of Data Governance. As part of broader Security efforts to protect data assets, you will have an exciting opportunity to support Data Protection efforts across a matrix organization. Key areas of focus for this role may include, for example, data collection, data acceptable use, data sovereignty, and data retention / lifecycle management. You will manage program and individual project priorities, deadlines and deliverables, and be involved in the design, development, testing, deployment and maintenance of Data Protection and Data Governance solutions.
+
+As Sr. Director, Data Governance, you’ll be a key player in the security roadmap and consulting efforts that addresses Equifax needs in the Data Protection capability. We need our Sr. Directors, Data Governance, to be versatile, display leadership qualities, and be enthusiastic in addressing new problems as we continue to push risk management forward. You'll have the opportunity to be exposed to virtually all Equifax products and work with a wide variety of other teams throughout the company and every major business unit.
+
+Job Responsibilities
+Help define and execute Data Governance program, including:
+Support development, socialization, and execution of Data Governance strategy
+Draft Policies, processes and standards associated with data assets
+Provide requirements and use technology solutions to enable preventative and detective Data Governance controls
+Create and support cross-functional policy making teams
+Help organization alignment of implementation responsibilities
+Provide subject matter expert support in Data Governance, including controls and ongoing monitoring
+Provide team, organizational, and strategic leadership on key Data Governance projects and initiatives
+Develop and manage program metrics and reporting which includes reports and readouts to Leadership
+Research industry trends and key market information for continuous program improvement
+Continually seek to improve the knowledge, skills, professionalism and productivity of the team by providing training, guidance, coaching and feedback
+
+Experience And Education
+Relevant Bachelor's degree; advanced degree preferred
+10+ years of relevant experience
+Extensive experience in developing, planning and executing Data Governance or Data Management improvement initiatives
+Demonstrated understanding of Data Governance methodologies and concepts
+Demonstrated leadership and partnering skills with both technical and non-technical partners (including senior leadership) with focus on informing, influencing, and relationship building
+Skilled at setting strategies, and developing and executing plans around the strategies
+Strong consultative skills which includes the proven ability to influence consensus decision making across a variety of stakeholders and to succinctly document the outcome of these decisions
+Self-motivated and results-oriented
+Excellent interpersonal and communication skills
+Demonstrable track record dealing well with ambiguity, prioritizing needs, and delivering measurable results in an agile, fast-paced environment
+Experience with Confluence, SharePoint, Archer, ServiceNow, and/or Agile -- a plus
+Understanding of consumer credit reporting or information services industry – a plus
+Knowledge of laws and regulations that impact Equifax (e.g., FCRA, GLBA, UDAAP, Dodd-Frank, GDPR) - a plus
+Developing innovative therapies is one of the most challenging, most essential and personally rewarding fields in science. This is the most exciting time to be a part of Astellas, a company with a uniquely collaborative and patient-focused culture.
+
+There's something special about working at Astellas. It's reflected in our focus on the people we serve, the way we treat each other and the results we achieve together as a company.
+
+Astellas is announcing a Director, Global Data Governance opportunity in Northbrook, IL.
+
+Purpose & Scope
+
+The Director of Global Data Governance will lead and develop the implementation of the global data governance program, ensuring effective data management, change management, data standards and solutions.
+
+This individual must collaborate not only within the RWI group, but also across all divisions, enabling and aligning data management initiatives and processes.
+
+This role will work closely with the Information Governance committee ensuring strategic direction and implementation of the Data Governance roadmap.
+
+Success in this role requires staying current with the latest solutions, industry trends, standards, security and privacy policies and business applications in Data Governance. Success also requires effective and efficient strategic balancing of various stakeholder needs and opportunities across the enterprise.
+
+Essential Job Responsibilities
+Design, establish, implement and mature the global Data Governance strategic roadmap balancing priorities and opportunities related to data analytics and operations
+Develop a data governance framework and set the standards to increase the opportunity / value creation, risk management, and processing of data across the enterprise
+Create, manage and measure program metrics to drive program and report to Leadership teams
+Establish cross functional operational model for alignment across various initiatives related to Data Governance
+Accountable for data Governance Change management through relationships, socialization, and communications with internal and external partners
+Serve as the subject matter expertise in Data Governance around processes, tools / technology, controls, and monitoring, with a key role global data governance initiatives
+Accountable for ensuring successful implementation of a global data governance framework focused on data standards, policies, and processes to maximize the value of data assets, through quality and risk management
+Develop and maintain enterprise inventory of data assets, solutions, and data management initiatives
+Enable the development and implementation of data quality standards, data protection standards
+Responsible for continuous improvement of the Data Governance Program ensuring the program is maintained current with industry standards and support key company initiatives.
+
+
+Organizational Context
+
+This role may be responsible for several contract resources and at least two Director-level or Manager level direct reports.
+
+Required
+
+Qualifications:
+10+ years of experience in data governance, data stewardship, data analysis preferably with experience across various data domains
+Experience developing/implementing or operating an enterprise wide data governance program
+Strong written and verbal communication skills required, with ability to interact with all levels of the organization. Must be able to translate between technical and business management to effectively achieve results
+Experience leading large, strategic global initiatives and global functions with significant influence (without authority) across an entire enterprise.
+Lifesciences and healthcare experience
+Understanding of various data domains and including real world data assets
+Attention to detail, effective problem solver, assertive decision maker, facilitator and communicator
+Knowledge of compliance, privacy and safety pertinent to pharmaceutical industry including real world data
+Ability to adapt and respond effectively to change, delay and or shifting priorities and goals
+Self-directed with the ability to work independently in a fast-paced environment and to aggressively drive project milestones to successful completion.
+Experience working with data vendors to ensure the quality and timeliness of deliverables
+Experience managing internal and external resources for operations and project work
+Relevant Bachelor's degree; advanced degree preferred
+3-4 years relevant experience in healthcare/ life sciences environment
+Solid understanding of Data Management / Data Governance methodologies
+Develop and lead teams of data stewards in direction, process and objectives
+
+
+Preferred
+Hands on experience operating and implementing data management solutions
+Familiarity of broader RWD applications across healthcare
+Experience in understanding complex source system data structures -- pharmaceutical experience preferred
+Cross-cultural project management and communication experience
+Iron Mountain Incorporated (NYSE: IRM), founded in 1951 and ranked as a Forbes 2018 America’s Best Employers, is the global leader for storage and information management services. Trusted by more than 225,000 organizations around the world, Iron Mountain stores and protects billions of valued assets, including critical business information, highly sensitive data, and cultural and historical artifacts. Providing solutions that include information management, digital transformation, secure storage, secure destruction, data centers, cloud services and art storage and logistics, Iron Mountain helps customers lower cost and risk, comply with regulations, recover from disaster, and enable a digital way of working. Visit www.ironmountain.com for more information.
+
+Responsibilities
+
+Are you a data management leader who is looking to influence strategy and execution across a company that is a leader for Information Management? Iron Mountain is looking for a visionary and disciplined Data Leader who understands the power and importance of data as a strategic enabler for business success. This senior leader will provide vision and direction for the future of data management functions required to support and drive growth of the Iron Mountain Businesses.
+
+This role is in the Global Operations team which plays a critical role in empowering sales, marketing, and delivery to drive customer experiences through strategy, planning, governance, change initiatives, and controls to ensure exceptional outcomes throughout the business lifecycle at a global level.
+
+The Global Operations team is chartered to enable positive business outcomes by driving right behaviors and decisions through strong data management and delivery. The team’s mission is to lead a unified information architecture, data quality and governance, and master/reference data management to enhance user experiences for connected systems.
+
+Essential Job Responsibility
+
+This Director of Data Governance will provide leadership and direction to a team of leaders, senior data program managers, and architects. In this role, you will provide strategic vision and management to establish or drive optimization of roadmaps in the areas of data governance, Quality management , Information Architecture, MDM/Reference data management and data operations. You will work closely with Services business stakeholders, data stewards, process owners, engineering and vendor partners to make this vision a reality. Strong communication and cross-group collaboration skills are vital, as many of the data functions provided by the team are accomplished through a complex, matrixed set of participants across the Services business and multiple engineering groups.
+
+What do you do on day to day basis (frequently)?
+Enable MDM in a B2B environment - Customer or Party Or Org data
+Act as a Chief Data Steward for handling Orphan MDM records, Survivorship rules , Probability Matching algorithm enhancements
+Work very closely with the GDA team in IT to understand and leverage full capabilities of the eco system
+Manage Data Sources, and process managers / analysts
+Understand the approach for MDM – Customer and Product and enable day to day work progress of the DG ( data governance ) team
+
+What would you do on Monthly basis?
+Time tracking and planning for the next month for each team member
+Maintain and update project wise run rate which would track the actual hours charged to the project by all the resources involved, work with the MDM Program Manager on this
+Maintain monthly targets w.r.t MDM approach and track deliverables from the DG team
+Work with the HR and recruitment team to fill any open positions, review progress on hiring, and coordinate with the global team participation (GDA) in the interview process.
+Prepare and maintain statistics on cost center, highlights for the month, challenges mitigated and roadblocks for leadership status meets.
+
+What do you do on Quarterly, Half yearly, Yearly basis?
+Contribute towards the next year roadmap of Data Governance Organization
+Participate and if needed organize global meets with various business take holders and potential sponsors to feed into the roadmap
+Work very closely with the Global Data & Analytics team in GTO ( Global Technology Ops ) and liaison on the multi-year roadmaps for MDM
+Provide feedback to team members on performance and appraisals ( both onshore and Offshore)
+Participate in budgeting sessions for the next year
+Close in on financials of the year for your cost center
+Identify and coordinate with the training team on relevant trainings for the team.
+Team building activities, Mentor, Motivate, Build trust
+
+
+Business Capabilities
+
+Qualifications
+You are expected to be highly competent and passionate for this role and must have spent at least 10+ year’s hands on in the following areas.
+Handling Customer Hierarchies and rationalizing them via MDM.
+Worked in a true global set up spanned across many geographies and supported MDM framework globally – Customer, Product MDM
+MDM experience in a B2B world ( e.g Party, Customer, Organization) is a must
+Data Architecture – Includes core data handling leveraging industry leading tools like IBM MDM or others. Unstructured data set processing techniques would be a value-add.
+Data Stewardship – excellent understanding and hands on experience in dealing with stewardship activities in the Data Governance function
+Handled billing, invoice and revenue related data standardization, should have prior knowledge of Oracle or SAP ERP systems
+Implemented Product MDM preferred
+Tool Specific MDM – understand processing, probability or fuzzy logic build, deploy and configure for survivorship rules in MDM
+Value adds to have clear understanding of Big Data technologies and Hadoop architecture, also MDM on virtualized environment e.g Denodo
+
+
+Qualifications Required
+Bachelor’s degree in computer science, computer engineering, information systems management
+Management degree or certification preferred
+Over all 15+ years of experience in the field of Enterprise Data Management – Data Governance
+5 years of experience in managing high potential teams of at least 20 members.
+Strong understanding of data design, architecture, and development for MDM suites on Cloud and on premise
+Proven ability to lead through strong decision making, problem resolution, conflict management, and communications skills.
+5+ years of understanding of Order Management life cycle, B2B environments preferred
+Prior working knowledge of IBM MDM preferred and usage of the BPM module for Data Governance
+Must show a high degree of business acumen and empathy.
+Outstanding technical planning skills with the ability to prioritize and multitask across number work streams.
+Must be highly collaborative with the ability to manage and motivate project teams and meet deliverables.
+Understanding of data governance and data stewardship best practices.
+Must have a passion for continued improvement, learning, and mentoring.
+
+
+Desired
+Experience in implementing Hub/Spoke MDM model from a Data Governance standpoint
+Experience in cloud based MDM leveraging tools like Denodo
+Experience with “big data” tools and approaches, including NoSQL platforms.
+Lean/Six Sigma certification
+Operational Excellence training
+Experience through at least 1 Order Management Lifecycle end to end at a retail , e-commerce or any product based company
+High level understanding of Oracle financials is a plus
+Knowledge on statistical tools like R is a nice to have
+
+
+Compliance Obligations
+
+It is the responsibility of every Iron Mountain employee:
+to comply with all applicable laws, rules, regulations, and company policies
+to exhibit ethical behavior in accordance with our Code of Ethics and Business Conduct
+to complete required training within the allotted time frame
+Serve as the company’s senior leader responsible for the stewardship of the company’s master data assets, ensuring master data accuracy and integrity. Lead development and implementation of enterprise master data management systems, processes and procedures to ensure data accuracy, centered on use of SAP S4HANA as the company’s ERP, in support of the company’s business. Serve as the company’s evangelist for promoting good master data management practices. Collaborate with company business and technology leaders, outside consultants and business partners (customers and suppliers) to successfully develop, implement, maintain and manage a comprehensive Enterprise Data Strategy.   The Director Master Data Governance will be the focal point for company data standards, managing a team of Master Data Leads and chairing the company’s Data Council which governs enterprise master data.
+
+Essential Duties and Responsibilities:
+Serve as a liaison and primary point of contact for all master data needs both internally and externally; such as integration needs with SAP S4HANA ERP and other company information systems, customer product data requirements, and Global Data Synchronization Network (GDSN) industry standards. Support business projects including integrations, SAP roll outs
+Promote expansion of good master data management practices and use of the master data management solution in additional areas of the business. Develop an enterprise-wide plan to promote data management / ownership and shift mindsets.
+Partner with cross-functional teams to define and prioritize current and future requirements and opportunities for enhanced returns from the enterprise master data management solution. Solve cross-functional governance issues and escalate as needed.
+Responsible for data readiness, data transformation, data migration and eventual data maintenance within SAP ERP for data objects across the company in support of the ERP Implementation Project.
+Lead and participate in acquiring knowledge of existing legacy data, data structures and data landscape to participate in data profiling, data cleansing and data de-duplication activities.
+Work closely with data, business and IT personnel on migration activities, including source data analysis, data extraction, definition of active data, historical data requirements, legacy system retention requirements and capturing data conversion logic in functional and technical specifications.
+Assist assigned resources with building data loading programs and tools and testing them through mock loads and verification cycles. Lead and participate in the verification and validation of converted data obtained from SAP; this activity will include helping to log results, resolve conversion issues and re-test data defects for all mock loads, testing cycles, dress rehearsals and final cutover.
+Education and Experience:  
+Bachelor’s degree in Information Management, Data Analytics, Business or related field and 10 years of relevant business experience or 15 years of relevant business experience.
+Relevant business experience must include a minimum of 5 years master data management experience in an SAP ERP environment.
+Direct experience performing data activities associated with an enterprise ERP (preferably SAP) implementation or transformation project and/or via rolling acquired companies into in existing enterprise ERP solution required.
+Significant knowledge of SAP ERP master data, business processes and master data use cases. Experience with master data governance software systems required; experience with SAP MDG software and/or EnterWorks MDM software preferred but not required.
+Knowledge of industry product data standards such as GDSN preferred.
+Ability to be detailed-oriented while still maintaining a big picture perspective. Must have a solid understanding of corporate-wide functions, specifically how master data supports business processes. Excellent business acumen.
+Ability to react under pressure to any given situation that may arise, in a professional manner and with positive results, in support of a multi-location, 7 X 24 environment.
+At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, storage, and virtualization technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly growing company supporting more than 90% of Fortune 500 companies.
+
+Job Summary
+
+The Red Hat Enterprise Data and Analytics team is looking for a Director of Enterprise Data Architecture and Data Governance to join us in Raleigh, NC, reporting to the Vice President of Enterprise Data and Analytics. In this role, you’ll be responsible for the strategic direction and operational delivery of data and governance at Red Hat. This will include data for operational use and downstream analytics. You will ultimately guide our strategic data roadmap and work on improving data processes and quality by working closely with business stakeholders to identify areas where persistent problems exist within our data infrastructure. As a Director of Enterprise Data Architecture and Data Governance, you will be responsible for all data assets under business functions (e.g., sales, people, marketing, product, etc.) and ensure alignment with enterprise strategy and related business architecture. You’ll also be responsible for setting vision and direction and for ensuring alignment between data architecture, business strategy, and data governance.
+
+Primary Job Responsibilities
+Serve as an evangelist for the value of well-governed and well-architected data across the enterprise, explaining how this discipline delivers tangible business value
+Work closely with business stakeholders so that the data architecture is aligned with and capable of supporting business needs
+Serve as the primary chair and leader for the Data Leadership team, which consists of senior leaders from each functional area in the company
+Collaborate with all areas of IT, including application, integration, data management, and data warehouse teams
+Lead vision, direction, and guiding principles for data architecture and governance
+Guide improvement in tools and capabilities to support the data strategy and vision
+Lead a team that is responsible for organizing data at a macro level, establishing subject areas, and at what level they are managed in relation to master and reference data, in addition to mastering subsets of data that are required (e.g., product, customer, people, etc.)
+Lead a team responsible for data quality and governance at the enterprise and regional levels, supporting multiple data domains (e.g., product, customer, transaction, pricing, people, channel, etc.)
+
+Required Skills
+10 years experience as a data architect working with both large operational and data warehousing environments
+10 years experience with conceptual and logical data modeling (relational and dimensional) and working knowledge of ontological and taxonomic concepts
+5 years of experience leading or building data governance programs
+Ability to conceive and portray the big data picture and be able to develop an end-to-end vision for the enterprise
+Ability to express complex technical information in understandable user-friendly language and style; collaborate in one-on-one and group settings
+Good communication and interpersonal skills for interacting and collaborating with other leaders and associates throughout the organization, including executive management
+Knowledge of industry best practices, master data management (MDM), data governance, established data management principles and techniques, and emerging data and reporting technologies
+Working knowledge of customer relationship management (CRM) and enterprise resource planning (ERP) system implementation and approaches
+Ability to lead, advise, manage, and oversee the work of others
+Ability to assess situations or people and emphasize methodology, governance, modeling, and technology
+Ability to adapt and perform in a highly collaborative, fast paced, rapidly changing environment
+Understanding of the importance of maintaining the physical and technical security and privacy of data
+Basic understanding of the system development life cycle, agile project management, and requirements gathering, design, test, and validation techniques
+Ability to initiate, evaluate, and shape projects from the perspective of the entire organization
+
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.
+
+Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.
+As part of the newly created Data Strategy and Enablement Team, this role will be a key enabler of our journey to be the world’s leading data-driven retailer. As part of this transformation, we are seeking a leader to create the vision, policies, and procedures to ensure data privacy, compliance, usage, and regulatory requirements needed to drive sustainable value from our data. This role will partner extensively with our Legal, Technology, Governance, and Data Strategy team to develop and manage these activities across Walmart’s omni-channel organizations and stakeholders. In this role, you will work alongside our Data Governance Enablement lead who will manage and execute on the implementation of these policies and procedures.
+
+The Director, Data Governance Policies and Compliance Mgmt. will report to the VP, Data Strategy and Enablement and will collaborate across the Global Data team, key functional domains, and business lines.
+
+About The Data Strategy And Enablement Organization
+
+Our organization focuses on managing and delivering world-class data assets, including creating and maintaining data standards, driving policy compliance, creating partnerships, and developing pipelines and self-service tools. We empower our business to leverage data to fuel growth, driving revenue in our core and building new business model opportunities. We protect customer, associate, and partner data, ensuring privacy and security when collecting and using data. As a leader within the broader Global Data Organization, you’ll have a once in a lifetime opportunity to play a role in establishing and leading our data culture and ecosystem. You will be challenged to deliver innovation at scale balanced with operational frameworks to ensure consistent performance. You’ll work in a close partnership with product to define a roadmap, maintain agility, and navigate to delivery through any set of constraints.
+
+Key Responsibilities
+Develop and drive clear processes to identify, understand, and treat data as an enterprise asset – with commensurate and consistent protection, trust, lineage, and regulatory compliance.
+Work with business partners, legal teams, outside council, and technology to develop the processes and rules by which we can implement an enterprise governance program.
+Drive increased readiness around the brand value and improved business impact data governance will bring to Walmart; understanding that more, trusted data is critical to continued business growth.
+Implement an Audit process to measure state of compliance and adherence to stated policies
+Work across Data Supply Chain to understand areas for governance to be improved and/or measured; including Access Rights Management, Data Archive/Purging, Cataloging standardization, etc. Working with the various teams to implement noted improvements
+Drive specific key actions within the Data Governance realm including GDPR, CCPA, etc., with a lens on developing the program to facilitate common approaches to be extensible with new regulatory requirements
+Minimum Qualifications
+You demonstrate a passion for driving organizational value and trust though effective and fit-for-purpose Data Governance.
+You are detail oriented, with the ability to ideate and problem solve actively with stakeholders, especially when managing areas of risk in emerging law.
+You understand tooling used to manage data, governance, metadata, etc., and can help shape the tool librariy selection and roll-out capabilities.
+Transparent, with ability to collaborate across teams to solve complex issues.
+You demonstrate strong command of process and workflows to ensure efficiency in process solution deployment for the developed policies
+Be a center of excellence in clarity of alignment and communication to all levels of the organization
+You have deep experience in data management, governance, regulatory impacts, and importance of balancing these when determining a path forward
+You are a proactive problem solver who operates effectively and independently, even in areas of uncertainty and ambiguity – escalates/engages teams as appropriate
+You are a team player, with the courage to drive change
+You possess strong collaboration skills and approach problems with positive intent while driving towards resolution
+You are curious, not afraid to dig deep into issues or processes that others may ignore
+You have the ability to simplify strategy into simple actions
+Additional Preferred Qualifications
+Minimum of 10 years of experience in leadership roles developing and driving a Data Governance, Quality, and Management program - preferably in roles that required deep partnership with Legal, Business, and Platform, Audit, and Technology teams.
+Strong capabilities/experience Data Product Development, Data Supply Chain Development, Data Audits, Business Analysis.
+Experience in start-ups though Fortune 50 a significant plus
+Minimum of 10 years of team leadership experience and cross-functional influence
+Self-directed, well organized and have good follow-up skills
+Excellent written and oral communication & presentation skills
+Strong leadership capabilities, integrity, and interpersonal skills
+Working knowledge and experience in software tool roll-outs and training
+Entrepreneurial attitude with focus on goals while exhibiting personal integrity and a focus on the customer
+Experience leading diverse and geographically dispersed teams
+Proven ability to drive results, especially in a matrixed or influence based environment
+Strong relationship building skills, coupled with high business acumen
+Demonstrate a passion for driving frictionless use of data to solve new business problems
+Good working knowledge of the value of delivering insights through data and analytics.
+Company Summary
+
+The Walmart eCommerce team is rapidly innovating to evolve and define the future state of shopping. As the world’s largest retailer, we are on a mission to help people save money and live better. With the help of some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission.
+
+Position Summary
+
+As part of the newly created Data Strategy and Enablement Team, this role will be a key enabler of our journey to be the world’s leading data-driven retailer. As part of this transformation, we are seeking a leader to create the vision, policies, and procedures to ensure data privacy, compliance, usage, and regulatory requirements needed to drive sustainable value from our data. This role will partner extensively with our Legal, Technology, Governance, and Data Strategy team to develop and manage these activities across Walmart’s omni-channel organizations and stakeholders. In this role, you will work alongside our Data Governance Enablement lead who will manage and execute on the implementation of these policies and procedures.
+
+The Director, Data Governance Policies and Compliance Mgmt. will report to the VP, Data Strategy and Enablement and will collaborate across the Global Data team, key functional domains, and business lines.
+
+Key Responsibilities
+Develop and drive clear processes to identify, understand, and treat data as an enterprise asset – with commensurate and consistent protection, trust, lineage, and regulatory compliance.
+Work with business partners, legal teams, outside council, and technology to develop the processes and rules by which we can implement an enterprise governance program.
+Drive increased readiness around the brand value and improved business impact data governance will bring to Walmart; understanding that more, trusted data is critical to continued business growth.
+Implement an Audit process to measure state of compliance and adherence to stated policies
+Work across Data Supply Chain to understand areas for governance to be improved and/or measured; including Access Rights Management, Data Archive/Purging, Cataloging standardization, etc. Working with the various teams to implement noted improvements
+Drive specific key actions within the Data Governance realm including GDPR, CCPA, etc., with a lens on developing the program to facilitate common approaches to be extensible with new regulatory requirements
+The Home Depot s approach to governing, protecting, and using customer information to better service our customers will be a competitive advantage for the company going forward. The Director, Customer Data Strategy and Governance will be a critical leader driving innovation to solidify this competitive advantage and position the company for continued growth. The Director will lead a team that is responsible for advancing customer trust and transparency, enabling innovative and sound privacy and security strategies and building the framework and structure to support enterprise-wide customer data use initiatives.
+The Director will support Marketing, Online, and other business stakeholders in driving alignment on common customer definitions, business rules, data integration, data quality, and 3rd party data enrichment in order to ensure customer data is used as a strategic asset across the enterprise. In addition, the Director will work with cross-functional partners including Legal, Internal Audit, and I/T Security to refine, manage and lead The Home Depot s Customer Data Governance process. Objectives of the governance program will be to centralize oversight for customer data rules and access; to assess and provide ongoing monitoring of security protocols and internal business rules for accessing and using customer information; and to refine rules and processes to request, evaluate and approve/deny access to customer information, and to communicate internally the rules and policies for such access. The Director will be responsible for delivering projects to bring The Home Depot into compliance with any applicable current and future privacy legislation, both state and federal, that may go into effect. The Director will be responsible for managing and developing direct reports. The scope of Customer Data Governance will include U.S. and international operations, as well as subsidiary business units.
+MAJOR TASKS, RESPONSIBILITES AND KEY ACCOUNTABILITIES
+20% – Driving the development and execution of strategic planning for The Home Depot customer data use governance and data protection operations. To include discovery and inventory management process and technical oversight of activities. Working with leadership to provide communication and training materials on best practices.
+20% – Establishing and administering customer data use practices and requirements required by policy, applicable laws, and regulatory obligations, and working closely with downstream customer data users to identity gaps, errors, and inconsistencies.
+20% – Defining strategic roadmap for customer data management improvement, including customer data enrichment strategies and processes, working with 3rd party data brokers, marketing service providers, and customer identity management providers. Establishing and maintaining customer scorecards and data quality dashboards.
+15% – Partnering with Privacy and Security teams in performing regular privacy and security assessments with corporate stakeholders and enabling the implementation and maintenance of new policies, use cases, and technology solutions. Regularly communicating the company s existing program and posture.
+15% – Advocating data use and protection practices, including consent and identity management. Receiving, tracking, and taking action on requests to and from stakeholders concerning policies and procedures, e.g., regulatory inquiries, audits, data advisory board reviews, consent management, incident response, and business continuity.
+10% – Mitigating risks and assisting with data anonymization, pseudonymization, and cryptographic techniques that preserve and improve privacy protections. Conducting ongoing compliance monitoring activities (e.g., verification of compliance, attestations) and ensuring the delivery of frequent customer data use training and awareness.
+
+NATURE AND SCOPE
+Reports to Senior Director, Customer Marketing. 
+This role has 4-8 direct reports.
+ENVIRONMENTAL JOB REQUIREMENTS
+
+Environment: 
+Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable.
+Travel: 
+Typically requires overnight travel less than 10% of the time.
+Additional Environmental Job Requirements:
+MINIMUM QUALIFICATIONS
+Must be eighteen years of age or older.
+Must be legally permitted to work in the United States.
+Additional Minimum Qualifications:
+Education Required:
+The knowledge, skills and abilities typically acquired through the completion of a bachelor’s degree program or equivalent degree in a field of study related to the job.
+Years of Relevant Work Experience: 8 years
+Physical Requirements:
+Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.
+Additional Qualifications:
+Preferred Qualifications:
+8-15 years of experience preferred 
+Advanced degree (such as a Masters in Business or Accounting) a plus 
+Experience with presenting to and leading discussion with executive audiences 
+Previous experience with 1) business or commercial responsibility for the usage of customer data, and/or 2) customer data governance and privacy 
+Other relevant experience with customer data in product management, analytics or internal audit
+Knowledge, Skills, Abilities and Competencies:
+Able to build and lead effective teams (highly organization, holds team members accountable, adept at identifying and developing talent, sets and clearly communicates a vision, celebrates group success) 
+Strong executive communication skills (EVP-level), communicates difficult or complex ideas clearly and effectively with all audiences 
+Approaches tough assignments with confidence and as an independent thinker; makes own judgements before considering and reconciling own opinions with opinions of others. 
+Solid program management skills and ability to handle multiple responsibilities 
+Ability to understand and work across functional areas including Internal Audit, Legal and IT 
+Exceptional critical thinking and organizational skills 
+Ability to work with a high sense of urgency in a fast-paced environment 
+Strong written and verbal communications and influencing skills 
+Ability to create and facilitate effective PowerPoint presentations
+Pharmacyclics is committed to the development and commercialization of novel therapies intended to improve the quality and duration of life and to resolve serious unmet medical needs for cancer patients. Pharmacyclics is a wholly-owned subsidiary of AbbVie (NYSE:ABBV), a global, research-based biopharmaceutical company. Oncology is a key therapeutic area for AbbVie, with a portfolio consisting of three marketed products and a pipeline containing multiple promising new molecules that are being studied in more than 200 clinical trials for over 20 different types of cancer.
+
+More than 1,200 Pharmacyclics and AbbVie research scientists, clinicians, marketing, operations and corporate professionals work in the San Francisco Bay Area. They combine their expertise in immuno-oncology, stem cells, and cell-signaling with their knowledge of bispecific antibodies, antibody-drug conjugates (ADCs), and covalent-inhibitor technologies to discover and develop novel cancer treatments. Together, we are striving to outsmart cancer.
+
+Director - Data Governance, Strategy, and Analytics 
+
+Summary
+
+The Director, Data Strategy, integration and Analytics will be accountable for setting the strategy and direction, establishing governance and for effective management of data, reporting, and technology priorities. This role will report into the Executive Director, Business Analytics and Insights and will have a high impact on the business by influencing the decisions taken by the senior leadership team based on appropriate data usage. The Director will function as liaison to the Information Technology team and support the requirements for the commercial team by providing technical and thought leadership for data evaluation, acquisition and integration, information storage and management, and reports & applications by making the information easily accessible to the users and bringing in best practices.
+
+Responsibilities
+Level of complexity (inputs), impact (outputs), influence (Recommendations based on use of data are going to influence these)
+Develop the data strategy and vision for building the data ecosystem to evaluate, acquire, integrate, and consume data that drive commercial insights
+Evaluate data that recognizes trends, calling our insights, and making recommendations to the executive leadership team to make recommendations to define business strategy
+Extrapolate, from the data ecosystem, to define the direction of the business and positively impact profitability
+Have the vision on data, articulate it, and apply it in a way that shapes the future direction of business
+Establish data governance by defining how to make data available, usable, and integral with current ecosystem
+Be the steward for Commercial Information and Reporting: as a single point of contact for commercial organization on data and standard reporting
+Responsible for ensuring ownership & accountability matrices of delivering single version of truth to the organization
+Create and ensure that existing governance rules within multiple systems are supporting the top-level insights and outputs
+Review and modify as necessary all existing business rules within the multiple systems as well as developing new business rules as necessary
+Develop change request processes, analyze change requests, identify implementation alternatives and implementation impacts.
+In partnership with IT, develop and implement service level agreement -how data is designed, structured, what is being asked
+Manage team: hire, manage and develop direct report(s)
+
+ 
+
+Qualifications
+15+ years of work experience in data strategy and acquisition, marketing analytics commercial information management, strategic consulting and/or other analytical work in the pharmaceutical, biotech or related industries in leadership roles with direct management experience
+Bachelor’s Degree is a must. MBA or other related graduate-level degree is a plus
+Exceptional ability to manage multiple projects in a fast-paced environment, with changing priorities and significant time pressures
+Experience in supporting launch products and/or new launch indications with forecasting and strategic decision support
+Strong communication skills (both verbal and written) required along with strong project/process management skills.
+Ability to develop and maintain strong team, including external partners, relationships while driving for positive results.
+High motivation, strong work-ethic and positive attitude while working under tight timelines
+Requirement to work “hands on” with data and analytical tools
+Experience with 3rd party pharmaceutical data like IQVIA (IMS Health) Sales Data (DDD, Xponent, NSP, NPA), Affiliation (HCOS), APLD (Medical Claims), and Specialty pharmacy data.
+Demonstrated ability to structure and conduct data analyses to generate insights and recommendations
+Previous experience in oncology is required and experience specifically in hematology is a plus
+We have world-class cross-functional staff across the globe including sales and marketing, regional medical liaisons, oncology nurse specialists and customer account teams to ensure our discoveries go from bench to bedside.
+
+The Senior Manager, Data Strategy & Governance works in partnership with the U.S. Commercial Information Management Director to develop and oversee a comprehensive Data program that ensures centralized data acquisition and integration across U.S. Commercial, Global, and R&D. This position is responsible for developing the end to end project plans for integrating new data sets into the data warehouse, including requirements for publishing and subscribing systems. This individual will collaborate across key functions within U.S. Commercial (Incentive Compensation, Commercial Strategy & Analytics, Sales, Marketing, Managed Markets, etc.), Global BAI, R&D, and other key corporate functions such as IS, Compliance, Privacy, Legal, HR and Procurement (GSS). This team member will also be a key contact across data suppliers.
+
+Job Responsibilities (include But Not Limited To)
+Assists U.S. Commercial Information Management Director in evolving data purchasing strategy, policies, and adherence, to enable our mission of serving patients
+Manages data assets for U.S. Commercial Organization in concert with U.S. Commercial Information Management Manager
+In partnership with U.S. Commercial Operations & IS business owners, defines requirements for integration of data assets into Commercial core systems based on input from functional leads (Including Data Governance Lead, Data Warehouse Lead, CRM Lead, MDM Lead, etc.)
+Exhibits strong desire to learn about new data sources, leverage alternative data sources. And innovate
+Oversees the development and maintenance of the U.S. Commercial Data repository, an inventory of all data assets and relevant information concerning how to leverage and access the data
+Collaborates with commercial stakeholders on how existing data assets can be leveraged for analysis/insight generation and advises on differences in data collection methodologies
+Optimizes usage of data assets across U.S. Commercial by ensuring broad, timely communication of available data sources and ongoing change management
+Partners with other functions across the enterprise to support key deliverables and manages data suppliers to achieve these goals
+Ensures requests for new data assets are fulfilled efficiently to meet Commercial data needs and follows Privacy, Compliance, and Legal guidelines
+Acts with fiscal responsibility and assists U.S. Commercial Information Management Manager in managing Commercial budget
+Develops end to end project plan for the onboarding of newly purchased data assets
+Develops end to end project plan for the integration of existing data sets into Amgen’s Commercial Data Warehouse based on prioritized data integration project plan (determined by Data Warehouse Functional Leads)
+Acts as Project Lead for core systems Data Governance forum
+
+Basic Qualifications
+Doctorate degree and 2 years of project management and/or analytics experience
+OR
+Master’s degree and 4 years of project management and/or analytics experience
+OR
+Bachelor’s degree and 6 years of project management and/or analytics experience
+OR
+Associate’s degree and 10 years of project management and/or analytics experience
+OR
+High school diploma / GED and 12 years of project management and/or analytics experience
+
+Preferred Qualifications
+Strong desire to fulfill Amgen’s mission of serving patients
+5+ years of project or data management related experience, ideally gained in biotechnology, pharmaceutical or healthcare organizations
+Deep knowledge, understanding and ability to interpret and analyze data, information systems, and its applications including but not limited to sales, customer, patient, plan/payer, claims, etc.
+Experience in working with key functional areas within U.S. Commercial (i.e. Sales, Marketing, Managed Markets, BAI, Incentive Compensation, CCOE, Value & Access, etc.)
+Deep understanding of pharmaceutical data sources and how they are used, including but not limited to sales, customer, patient, plan/payer, claims, etc.
+Keen understanding of our patients, payers, HCPs, and our evolving healthcare landscape
+Solid business acumen and maturity
+Strong communication and project management skills
+Excellent diplomacy and facilitation skills; ability to influence without authority.
+Experience analyzing commercial data, analytics, and reports
+Ability to work successfully cross-functionally and lead large cross functional teams and budgets
+Proficient in Microsoft Suite
+
+We understand that to successfully sustain and grow as a global enterprise and deliver for patients — we must ensure a diverse and inclusive work environment. Our culture is what makes Amgen a special place to work. We have a powerful shared purpose around our mission – to serve patients. We respect one another, recognize contributions, and have embedded collaboration, trust, empowerment and inclusion in all that we do. We equip all our staff members to live well-rounded, healthy lives. Most recently, Amgen added benefits for transgender employees and continues to pride itself on industry-leading, family-friendly offerings for families of all compositions.
+
+Amgen is committed to unlocking the potential of biology for patients suffering from serious illnesses by discovering, developing, manufacturing and delivering innovative human therapeutics. This approach begins by using tools like advanced human genetics to unravel the complexities of disease and understand the fundamentals of human biology.
+
+Amgen is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+A career in our SAP Risk Assurance practice, within Information Technology Risk Assurance services, will allow you to develop and apply strategies that help clients leverage enterprise technologies so they can get a higher return on their investment, mitigate risks, streamline processes, and find operational inefficiencies. We assist clients in understanding and challenging their current risk profiles and develop strategies to build digital confidence by embracing opportunities to stay competitive through building trust and resilience into their technology systems. We cover a wide range of disciplines, including risk evaluation, operational and strategic Information Technology processes, project governance, application implementation, data integrity, cyber security, and accounting/audit. Implementing a new enterprise resource planning system can be a huge investment for our clients and they don’t always see the results. Our team helps companies get the most of their SAP systems by identifying processes and control weaknesses and recommending improvements in areas including programme governance, design validation, data management, training and testing. You’ll assist on implementing end to end testing for all business critical processes and developing the necessary tools to assist our clients in the successful implementation of their SAP systems across all divisions.
+
+Responsibilities
+
+As a Director, you’ll work as part of a team of problem solvers with extensive consulting and industry experience, helping our clients solve their complex business issues from strategy to execution. Specific responsibilities include but are not limited to:
+Proactively lead the practise by setting strategy, drive the development of new business in the market, and provide technical advice across disciplines
+Building strong networks within the firm to spot and capitalise on opportunities to get involved in projects that others are leading across a number of different business units and sectors
+Identifying and discussing key issues with our clients to identify potential opportunities
+Responsibility for a majority of day to day client communications
+Responsibility to shape and deliver various projects that exceed the expectations of our clients and our own assignment quality criteria
+Manage and deliver large projects by developing the project team, assessing engagement risks throughout, driving conclusions, and reviewing / challenging the output produced by the team
+Responsibility for management of engagement financials
+Helping to grow and develop our team through hands on training and coaching
+
+Basic Qualifications
+
+Job Requirements and Preferences:
+
+Minimum Degree Required
+
+Bachelor Degree
+
+Required Fields Of Study
+
+Accounting, Finance, Management Information Systems, Management Information Systems & Accounting, Computer and Information Science, Computer and Information Science & Accounting, Economics, Economics and Finance, Economics and Finance & Technology, Business Administration/Management, Engineering, Accounting & Technology, Mathematics, Statistics, Mathematical Statistics
+
+Minimum Years Of Experience
+
+7 year(s) of experience in Master Data Governance (MDG) solutions including MDG strategy, governance strategy, data profiling and MDG architecture.
+
+Preferred Knowledge/Skills
+
+Preferred Qualifications:
+
+Demonstrates Thought Leader-level Knowledge With, And/or a Proven Record Of Success Directing Efforts In Managing Client Projects Involving One Or More Of The Following Areas
+
+SAP MDG: Designing workflows, data standards, security/access models, IDOCs, ABAP, interfaces, managing change requests, and data migration;
+Data governance framework design: Designing data standards, processes, organization, policies, developing roadmaps for design and execution, and operationalizing frameworks for large organizations;
+SAP Data Migration: Developing data strategies and data mappings through workshops, performing data analysis and identifying data quality business rules with business and IT, and designing and building data validation routines with business and IT;
+SAP Information Steward and Data Services; - SAP MM, PP, FI, or SD; and, - Business events and risk management understanding that drive data governance and MDM requirements.
+Demonstrates thought leader-level knowledge with, and/or a proven record of success directing efforts in the following areas:
+Performing as a high impact team leader, leading teams to generate a vision, establishing direction, motivating members, creating an atmosphere of trust, leveraging diverse views, coaching staff, and encouraging improvement and innovation; and,
+Advising CXO's on MDG solutions and strategies consistent with clients' business strategies.
+
+Demonstrates thought leader-level knowledge with, and/or a proven record of success directing efforts in the following areas:
+Designing and developing data models, extracting code and cleansing routines that utilize typical data quality functions, i.e. standardization, transformation, rationalization, linking and matching data that leverages data standards, processes and technology management for data, master data, and metadata;
+Developing a business vision and lead implementation efforts with complex project management capabilities;
+Generating a vision, establishing direction and motivating members, creating an atmosphere of trust, leveraging diverse views, coaching staff, and encouraging improvement and innovation;
+Applying proven facilitation abilities including managing workshops with various working groups;
+Extensively developing relationships with CXOs to generate additional business; and,
+Performing marketing/business development activities including marketing material, proposals, and client presentations.
+Director, Data Governance is responsible for leading a cross-functional team of business and technical leaders to establish effective and sustainable data governance operating model over shared enterprise data assets, including definition of clear roles and responsibilities for effective stewardship of corporate clinical and genomic data , development and implementation of data governance policies and procedures, data stewardship programs and data quality monitoring.
+
+Responsibilities
+Define and implement a data governance operating model to achieve business objectives
+Define and communicate roles and responsibilities within the data governance operating model
+Help build understanding of and support for data governance processes across the organization
+Manage data governance presentations, metrics, dashboards, and overall progress communications
+Identify data domain stewards and formalize data domain stewardship responsibilities
+Facilitate development and implementation of CDISC standards
+Engage data stewards for each data domain or business area and coordinate them to achieve defined program goals
+Define and communicate formal standards, policies, and processes regarding data stewardship
+Establish a repository for shared reference data, i.e. MDM and establish stewardship practices around its maintenance
+Establish a repository for critical metadata related to shared enterprise data assets, and establish stewardship practices around its maintenance
+Work with responsible parties to ensure that data standards are in place and that data dictionaries for individual data assets are sufficiently comprehensive, accurate and accessible
+Work with business functions across bluebird to build a shared business glossary and standards around shared data domains to enhance the ability to leverage data cross-functionally
+Establish working groups to ensure consistency and adoption of governance across data domains
+Create and execute on a strategic roadmap for measuring, baselining, enhancing, and sustaining data quality improvements over time
+Implement a metadata solution to efficiently catalog available data sets and elements, their definitions, relationships, and usage context
+Facilitate the development and implementation of data standards and data use standards
+Collaborate with IT and Clinical Programming to determine whether data is appropriate for storage in the data repository and establishing the process of data transmission into the data repository and its upkeep
+Work with vendors to facilitate the intake of data and to respond to questions regarding data governance
+Work closely with the Legal / Compliance team, the IT team to identify issues and effectively resolve data and compliance related problems.
+Stay up-to-date and informed on emerging practices for improving data governance practices
+Advance framework, metrics and reporting to guarantee progress can be measured, evaluated, and continually enhanced
+
+
+Knowledge, Skills, And Abilities Required
+Strong business acumen and ability to collaborate with business partners to identify needs and opportunities for improved data governance and data standards
+Strong leadership skills with ability to build and inspire teams and develop relationships with multiple stakeholder groups to drive adoption and deliver expected benefits.
+Proven ability to coordinate cross-functional teams of IT professionals, business executives, and other key stakeholders towards common goals and objectives
+Develop eCRF data standards according to CDASH
+Lead implementation of eCRF Global library
+Lead implementation of CDISC data standards
+Significant experience with development and implementation of data governance standards, processes, and solutions
+Experience with clinical data management, data dictionaries, metadata, and data quality
+Must be able to work in a highly matrixed fast-paced environment with changing priorities and deadlines
+GCP knowledge
+Strong understanding of clinical trial data
+Excellent planning, negotiation, prioritization, problem solving, and organization skills
+Able to operate in areas of uncertainty and ambiguity
+Able to think strategically and deliver tactically around all aspects of data governance
+Outstanding written and verbal communication skills in conveying vision and the practical tactics for accomplishing measurable and dependable improvements
+Strong interpersonal skills and the ability to quickly build and sustain positive relationships
+
+
+Education/Experience
+Bachelor’s degree, preferably in health science or related field
+Eight to ten years of experience, preferably in a clinical data or technology role
+Experience with developing and implementing data governance policies and procedures
+Experience dealing with highly varied data sets including very large and those containing Personal Information (PI), Patient-Level Health Information (PHI), and Personal Data under the EU's General Data Protection Regulation (GDPR)
+At Argo Group, our team members are critical to our long term success – so wherever in the world they work, everyone works together. Within our Group Data Department we are looking for a Director of Data Governance working from our exciting downtown San Antonio, TX office. This position will lead and execute Data Governance activities at Argo Group. The Director will take ownership of developing the company’s Data Governance and Data Management program throughout the organization. In addition, they will be responsible for providing leadership and direction for all organization-wide data governance activities with a focus on establishing and ensuring adherence to an enterprise data governance framework.
+The Director of Data Governance must be self-directed and self-driven. They must be comfortable operating in a nebulous environment and establishing order. This leader must be a leader first, but also comfortable rolling up their sleeves and leading by example when needed. They will need to operate at both strategic (establishing direction) and tactical (providing detailed guidance, and troubleshooting) levels.
+
+What does a Director of Data Governance Team Member’s day to day duties look like: 
+Drive data governance initiatives and lead the establishment of a Data Governance Program
+Develop the enterprise data governance structure; establish a data governance committee and define data governance roles, accountability and ownership, and decision rights; lead realization of data as an asset.
+Define the system of record as a “single-source of truth” for each data element; resolve multiple sources of truth issues with key stakeholders via clear definitions of elements.
+Implement best practices for management, manipulation and capture of data.
+Work in conjunction with Executive Leadership and liaise with multiple business and support teams across the global enterprise on complex data governance projects.
+Partner with Business and IT Stakeholders to develop Data Governance Roadmap, including enterprise wide Data Quality Framework and an Information Model
+Facilitate bi-directional communication of strategies, priorities and issues
+Define and communicate Data Governance roles and responsibilities
+Works with the business units to ensure data ownership and quality, and with Argo’s CISO on cybersecurity to ensure data security
+Drive organizational behavior change as it relates to the use of data; realizing vision of data managed as an asset
+Define Data Governance roles, accountability, and ownership and decision rights.
+Collaborate with Sr Data Architect to ensure facilitation of consistent data quality control and optimization in EDW at enterprise level
+
+Supervisory Responsibilities
+Directly supervises the internal Data Governance Team
+Works with HR recruitment team to hire the most qualified and talented individuals to fill open positions.
+Provides information and on-going feedback to department staff regarding expectations and performance.
+Addresses and resolves all performance concerns and issues in a timely manner.
+Works with department staff on individual professional development.
+Prepares and conducts annual performance reviews. Completes and submits all forms associated with the review process to the department according to the review process deadline.
+
+What’s Required For The Position
+Bachelor's degree in Information Technology or Business Administration or 7+ yrs. related field experience
+5+ years working in a Data Governance leadership role
+3+ years’ experience with Master Data Management
+5+ years working in the Insurance industry
+In addition, you embody our core values as they are the key to our success: 
+We desire to excel
+We are committed to our clients and to each other
+We have the courage to do the right thing
+We apply original thinking
+If you have these preferred skills, that is even better:
+Credible across both business and IT
+Ability to engage resources outside of direct-control to achieve objectives
+Strong understanding of insurance operational processes, data, systems landscape
+Demonstrable experience standing up a data governance practice
+Experience with one or more data governance tools
+Developing our employees professionally and personally strengthens our organization. Argo Group offers competitive pay and benefits that protect and enhance the lives of employees and their eligible dependents by way of health and wellness plans, life insurance, savings and investment opportunities, adoption assistance, education assistance, and matching gifts for education and charitable causes, just to name a few.
+
+Come join the World Class Leader in Global Specialty Insurance and build your career here! And don’t forget to tell your friends, we have a fantastic Employee Referral Program too! 
+
+We are an Equal Opportunity Employer. We do not discriminate on the basis of age, ancestry, color, gender, gender expression, gender identity, genetic information, marital status, national origin or citizenship (including language use restrictions), denial of family and medical care leave, disability (mental and physical) , including HIV and AIDS, medical condition (including cancer and genetic characteristics), race, religious creed (including religious dress and grooming practices), sex (including pregnancy, child birth, breastfeeding, and medical conditions related to pregnancy, child birth or breastfeeding), sexual orientation, military or veteran status, or other status protected by federal, state and/or local laws.
+PLEASE NOTE: At this time, Argo Group will not sponsor an applicant for employment authorization for this position
+To all recruitment agencies: Unless you have been requested to work on this position, or other positions with Argo Group, please do not forward any resumes to Argo Group employees. Argo Group is not responsible for any fees related to unsolicited resumes. 
+We are an Equal Opportunity Employer. We do not discriminate on the basis of age, ancestry, color, gender, gender expression, gender identity, genetic information, marital status, national origin or citizenship (including language use restrictions), denial of family and medical care leave, disability (mental and physical) , including HIV and AIDS, medical condition (including cancer and genetic characteristics), race, religious creed (including religious dress and grooming practices), sex (including pregnancy, child birth, breastfeeding, and medical conditions related to pregnancy, child birth or breastfeeding), sexual orientation, military or veteran status, or other status protected by federal, state and/or local laws.
+
+Applicants: For the most convenient application experience, please use the “Apply with LinkedIn” button. If manually entering, only include your most recent or relevant job information needed for this role. For either method, please attach your most current resume. Additional job history may be obtained if selected for the Job description
+What do you get when you bring together the brightest minds and place them into an exciting, fast-paced environment that fosters intellectual growth and rewards based on impact, not tenure?
+
+You get one of the fastest growing consulting companies in the United States. While we may be a new name in consultancy, we were born from a storied one. Guidehouse was founded in 2018 as an evolution of PwC Public Sector with a mission to help our clients deliver on their mission; providing bold new strategies that catalyze transformative results across all ends of the enterprise. We embrace brilliance. We embrace independence. Join us.
+
+Our Data consultants help clients optimize all elements of their data management, including operating model design, sustainable cost reduction, financial planning and analysis, management reporting, financial systems architecture, and full scale finance transformation. The main function of the Data Governance Director is to develop, organize and coordinate all data programs in the organization to ensure data assets are optimized to deliver digital utility and other business objectives.
+
+Responsibilities
+Prepare communications and lead interactions with internal and external stakeholders
+Create and manage a central process to capture, prioritize and manage data governance efforts across the organization.
+Support socialization of the data program across all executive levels.
+Drive stakeholder relationships by aligning business and technology.
+Make recommendations and inspire change across multiple levels of the organization, from individual engineers and program managers to business unit leaders. 
+
+Knowledge, Skills And Abilities
+Experience in the Power and Utilities Sector
+Preferred prior experience leading data governance projects in the Power and Utilities Sector
+Working knowledge of I.T. infrastructure, I.T. application technologies and frameworks.
+Firm knowledge of Data Governance Applications (e.g. Calibra)
+Firm understanding of Operational Technology and industrial control systems. . 
+
+Education, Experience And Certifications
+Ten (10) + years of data governance and data management experience.
+Bachelor’s Degree (B.A./B.S.) in Computer Science, Engineering or related field.
+Advanced technical degree or MBA a plus, but not required
+
+Guidehouse an affirmative action and equal opportunity employer. All employment decisions will be made without regard to race, color, religion, sex, age, national origin, military status, veteran status, handicap, physical or mental disability, sexual orientation, gender identity, genetic information or any other characteristic protected by law.
+NGDATA is an energetic series C startup transforming the consumer marketing space. We've built a Forrester and Gartner recommended Customer Data Platform that leverages machine learning to continuously optimize and trigger, in real time, the most effective and hyper-personal customer engagement. We've got name brand reference customers live with 5x - 10x targeting precision increases, a strong product and delivery team, and are rapidly growing our US operations.
+
+Position Overview 
+
+NGDATA Professional Services is looking for a Director of our Data Governance practice to lead a team designing, building and deploying Data Governance solutions for our clients, assisting them in their digital journey, including Data Quality, Data Catalogs, Glossaries & Lineage, as well as Master Data Management. You will help grow our business in leading opportunity identification and sales support, solution design, development and implementation, and ensuring successful projects with our clients.
+
+Experience with Informatica Data Governance capabilities and platforms is a prerequisite.
+
+The Director will also support developing solutions which enable the deployment and integration of software solutions for NGDATA clients across a diverse range of assignments and industries.
+
+Directors own the client relationship, successful delivery, and manage on-site teams for strategic clients or a portfolio of smaller clients.
+
+Directors are leaders who can manage people, generate revenue and deliver multiple large, complex projects.
+
+Principal Duties and Responsibilities
+Ownership, deep expertise, and thought leadership across Data Governance domains including Data Quality, Master Data Management, and Data Cataloging, Glossary, and Lineage management
+Ownership of assisting our pre-sales and sales organization with opportunity qualification and sales enablement, including client workshops both as an individual contributor and managing the Data Governance team
+Ownership of identifying business requirements, functional design, prototyping and process design (including scenario design, flow mapping), testing, training, defining support procedures and supporting implementations both as an individual contributor and managing the Data Governance team
+Lead team members on client engagements, including engagement management, overseeing effective team planning, management of on time deliverables, budget, and quality standards, and manage executive client relationships effectively
+Meet utilization targets, manage specific client accounts to identify recurring business or new sales opportunities
+Promote NGDATA’s Data Governance expertise through attending networking industry events, and publishing articles
+Manage performance of Consultants and Senior Consultants, actively participate in recruitment to fulfill staffing plan.
+Work with solutions team to design and develop fit for purpose repeatable Data Governance Solutions
+Qualifications / Technical Skills:
+Ten years of relevant data management consulting or industry experience
+Minimum 5 years working directly with Data Governance technologies including Informatica’s Data Quality, Master Data Management, and Data Catalog and Data Lake
+Minimum of five years of experience leading and mentoring project teams on engagements
+Expert understanding of software development lifecycle and quality processes
+Team leadership and management experience
+Significant client and project management as well as executive communication capabilities
+Proficiency in analyzing, designing, and deploying best practice solutions on client engagements.
+Ability to travel up to 50% of the time
+The Associate Director, Enterprise Data Governance implements and operates the company's data governance program, and applies seasoned knowledge to ensure data quality. The Associate Director, Enterprise Data Governance requires a solid understanding of how organization capabilities interrelate across department(s).
+
+Responsibilities
+
+The Associate Director, Enterprise Data Governance the position is responsible for data oversight, data usage, system analysis and data retention to assure data quality standards. This position collaborates with other departments to ensure data consistency and quality throughout the organization. This position contributes to development of data governance and data standards policies. The position maintains documentation on data governance, compiles reports on metrics and conducts benchmarking to identify trends and patterns. Decisions are typically related to identifying and resolving complex technical and operational problems within department(s), and could lead multiple managers or highly specialized professional associates.
+Information Asset is a fast growing consulting and training firm focused on Data Governance. Our clients include organizations in various industries around the world. We partner with software vendors to produce end-to-end solutions for our clients.
+
+Data Governance Principal
+
+Information Asset is a fast-growing consulting and training firm
+focused on Data Governance.
+
+For more information, please visit
+www.information-asset.com.
+
+Our clients include organizations in
+various industries around the world. We partner with software
+vendors to produce end-to-end solutions for our clients.
+We are currently seeking a full-time permanent Data Governance
+Principal candidate located anywhere in the US. 
+
+This position
+requires up to 40% national travel, the remaining time the job
+can be completed remotely.
+
+Essential Job Duties And Responsibilities
+
+Assist clients to establish enterprise data governance programs
+Develop data governance and stewardship organizations
+Align data governance with regulatory requirements such as
+GDPR, CCPA, DFAST and CCAR
+Program Management including budget, delivery, and business
+case development
+Ability to lead consulting engagements and mentor junior
+consultants
+
+Skills And Abilities
+
+At least 10 years’ experience around Enterprise Data
+Management in Fortune 1000 companies
+Bachelor’s degree
+Prior consulting experience
+Ability to travel
+Head of Data Governance & Analytics
+Top fin-tech company looking to hire a Head of Data Governance & Analytics
+Opportunity to build out function and improve data quality
+About Our Client
+Financial Technology firm with an excellent reputation and expanding significantly.
+
+Job Description
+Educate and influence business leaders on best practices related to data governance, analytics, architecture, etc.
+Work closely with Risk Management and Technology teams to help drive changes to the data management platforms
+Work to improve data quality across the firm
+Continue to grow and mentor junior staff members
+The Successful Applicant
+10+ years of relevant Data Governance and Strategy experience
+Bachelor's degree is required
+Experience with data modeling is preferred
+Ability to manage and develop a team
+Excellent communication and influencing skills
+Background in consumer lending is preferred
+TD Ameritrade is seeking to recruit a Director of Enterprise Data Governance, to oversee all data governance activities for the company. The successful candidate will be responsible for refining the existing enterprise data governance framework and ensuring adherence to this framework for data policies, standards and practices, both at the overall business level, and at the level of individual functions. He or she will also serve as a point of escalation for data governance, and will work closely with the business to improve the quality and value of core data assets, comply with regulatory requirements, and support the company's strategic goals. Importantly, the successful candidate will bring a strong understanding of the value of data as a strategic asset, and will understand how an effective data governance framework can be used to drive revenues, promote innovation, and reduce costs.
+
+Create an enterprise data governance implementation road map, including strategic priorities for the development of information-based capabilities.
+Refine existing roles and responsibilities related to data governance and ensure clear accountability for stewardship of the company’s principal information assets.
+Serve as a liaison between business and technology to ensure that requirements for protecting sensitive data are clearly defined and understood.
+Facilitate the development and implementation of data quality standards, data protection standards and adoption requirements.
+Provide progress reports to executive leadership and oversee periodic updates to the data governance road map.
+Identify new business opportunities relating to the use of data as a strategic asset.
+Select and implement new software capabilities to support enhanced data governance, metadata management and data quality.
+10+ years’ experience working within an information or data governance setting
+Experience building a data governance function Or driving significant, transformative change within an existing data governance function
+Delivery of measurable enterprise impact through the management of data as a strategic asset. Including how data can be used to better understand customers, drive revenues, and cut costs
+Mastery of relevant statutory frameworks applying to data governance, such as GDPR
+Strong leadership capabilities, including the experience of having led a sizable teamThe Home Depot s approach to governing, protecting, and using customer information to better service our customers will be a competitive advantage for the company going forward. The Director, Customer Data Strategy and Governance will be a critical leader driving innovation to solidify this competitive advantage and position the company for continued growth. The Director will lead a team that is responsible for advancing customer trust and transparency, enabling innovative and sound privacy and security strategies and building the framework and structure to support enterprise-wide customer data use initiatives.
+
+The Director will support Marketing, Online, and other business stakeholders in driving alignment on common customer definitions, business rules, data integration, data quality, and 3rd party data enrichment in order to ensure customer data is used as a strategic asset across the enterprise. In addition, the Director will work with cross-functional partners including Legal, Internal Audit, and I/T Security to refine, manage and lead The Home Depot s Customer Data Governance process. Objectives of the governance program will be to centralize oversight for customer data rules and access; to assess and provide ongoing monitoring of security protocols and internal business rules for accessing and using customer information; and to refine rules and processes to request, evaluate and approve/deny access to customer information, and to communicate internally the rules and policies for such access. The Director will be responsible for delivering projects to bring The Home Depot into compliance with any applicable current and future privacy legislation, both state and federal, that may go into effect. The Director will be responsible for managing and developing direct reports. The scope of Customer Data Governance will include U.S. and international operations, as well as subsidiary business units.
+
+MAJOR TASKS, RESPONSIBILITES AND KEY ACCOUNTABILITIES
+20% - Driving the development and execution of strategic planning for The Home Depot customer data use governance and data protection operations. To include discovery and inventory management process and technical oversight of activities. Working with leadership to provide communication and training materials on best practices.
+20% - Establishing and administering customer data use practices and requirements required by policy, applicable laws, and regulatory obligations, and working closely with downstream customer data users to identity gaps, errors, and inconsistencies.
+20% - Defining strategic roadmap for customer data management improvement, including customer data enrichment strategies and processes, working with 3rd party data brokers, marketing service providers, and customer identity management providers. Establishing and maintaining customer scorecards and data quality dashboards.
+15% - Partnering with Privacy and Security teams in performing regular privacy and security assessments with corporate stakeholders and enabling the implementation and maintenance of new policies, use cases, and technology solutions. Regularly communicating the company s existing program and posture.
+15% - Advocating data use and protection practices, including consent and identity management. Receiving, tracking, and taking action on requests to and from stakeholders concerning policies and procedures, e.g., regulatory inquiries, audits, data advisory board reviews, consent management, incident response, and business continuity.
+10% - Mitigating risks and assisting with data anonymization, pseudonymization, and cryptographic techniques that preserve and improve privacy protections. Conducting ongoing compliance monitoring activities (e.g., verification of compliance, attestations) and ensuring the delivery of frequent customer data use training and awareness.
+NATURE AND SCOPE
+Reports to Senior Director, Customer Marketing.
+This role has 4-8 direct reports.
+Director - Data Governance: Opportunity Overview
+
+An effective candidate for the Director - Data Governance opportunity will have hands-on experience executing data governance policies, data stewardship programs and data quality monitoring. This crucial role requires applicable in-depth exposure to regulations and a knowledge of CFPB, DFAST CCAR, Liquidity and Risk. The qualified candidate will lead a team to expand the capabilities of the existing data governance framework and elevate the program status within the client financial institution.
+
+Job Description
+
+Highlighted Duties & Tasks
+
+Data Governance And Stewardship
+Data management & Data Architecture focus.
+Outstanding communication and facilitation skills.
+Produce and lead governance forums to guarantee standards, policies and processes are effective and producing wanted outcomes.
+Create ownership and controls to actively monitor excellence and quality.
+Create and drive the progression of data quality monitoring and exception reporting for vital enterprise data.
+Develop standards, policies and processes to augment quality.
+Collaborate with peers across the risk platform to deliver on the all-encompassing framework.
+Stay up-to-date and informed on emerging practices for improving data governance practices.
+Advance framework, metrics and reporting to guarantee progress can be measured, evaluated and continually enhanced.
+Regulatory Risk, Credit Risk and Enterprise Risk.
+
+Qualifications
+
+Required Qualifications and Competencies:
+
+Basic Qualifications Of The Director - Data Governance
+Bachelor’s degree or equivalent work experience
+8+ more years of experience in data governance strategy, planning, and/or policy
+
+
+Other
+A trusted partner with experiencing creating alliances and builds trusted associations with peers across technology and the stakeholder.
+Cooperates across multi-functional teams to drive answerability, progress quality and change behaviors.
+Outstanding communication skills; both written and verbal in conveying vision and the practical tactics for accomplishing measurable and dependable improvement.
+Realistic in approach to governance, stewardship and quality signifying value.
+Ability to navigate organizational restrictions to gain support, build credibility and break down walls.
+Comprehensive experience in producing, driving and leading enterprise level data governance labors.
+Results motivated and sets aggressive goals and is answerable for unceasingly driving improved outcomes, leading change and guaranteeing high standards.
+The employer is a pharmaceutical company.Design, establish, implement and mature the global Data Governance strategic roadmap balancing priorities and opportunities related to data analytics and operationsDevelop a data governance framework and set the standards to increase the opportunity / value creation, risk management, and processing of data across the enterpriseCreate, manage and measure program metrics to drive program and report to Leadership teamsEstablish cross functional operational model for alignment across various initiatives related to Data GovernanceAccountable for data Governance Change management through relationships, socialization, and communications with internal and external partnersServe as the subject matter expertise in Data Governance around processes, tools / technology, controls, and monitoring, with a key role global data governance initiativesAccountable for ensuring successful implementation of a global data governance framework focused on data standards, policies, and processes to maximize the value of data assets, through quality and risk managementDevelop and maintain enterprise inventory of data assets, solutions, and data management initiativesEnable the development and implementation of data quality standards, data protection standardsResponsible for continuous improvement of the Data Governance Program ensuring the program is maintained current with industry standards and support key company initiatives.10+ years of experience in data governance, data stewardship, data analysis preferably with experience across various data domainsExperience developing/implementing or operating an enterprise wide data governance programStrong written and verbal communication skills required, with ability to interact with all levels of the organization. Must be able to translate between technical and business management to effectively achieve resultsExperience leading large, strategic global initiatives and global functions with significant influence (without authority) across an entire enterprise.Lifesciences and healthcare experienceUnderstanding of various data domains and including real world data assetsAttention to detail, effective problem solver, assertive decision maker, facilitator and communicatorKnowledge of compliance, privacy and safety pertinent to pharmaceutical industry including real world dataAbility to adapt and respond effectively to change, delay and or shifting priorities and goalsSelf-directed with the ability to work independently in a fast-paced environment and to aggressively drive project milestones to successful completion.Experience working with data vendors to ensure the quality and timeliness of deliverablesExperience managing internal and external resources for operations and project workRelevant Bachelor's degree; advanced degree preferred3-4 years relevant experience in healthcare/ life sciences environmentSolid understanding of Data Management / Data Governance methodologiesDevelop and lead teams of data stewards in direction, process and objectives
+A career in our SAP Risk Assurance practice, within Information Technology Risk Assurance services, will allow you to develop and apply strategies that help clients leverage enterprise technologies so they can get a higher return on their investment, mitigate risks, streamline processes, and find operational inefficiencies. We assist clients in understanding and challenging their current risk profiles and develop strategies to build digital confidence by embracing opportunities to stay competitive through building trust and resilience into their technology systems. We cover a wide range of disciplines, including risk evaluation, operational and strategic Information Technology processes, project governance, application implementation, data integrity, cyber security, and accounting/audit. Implementing a new enterprise resource planning system can be a huge investment for our clients and they don’t always see the results. Our team helps companies get the most of their SAP systems by identifying processes and control weaknesses and recommending improvements in areas including programme governance, design validation, data management, training and testing. You’ll assist on implementing end to end testing for all business critical processes and developing the necessary tools to assist our clients in the successful implementation of their SAP systems across all divisions.
+
+Responsibilities
+
+As a Director, you’ll work as part of a team of problem solvers with extensive consulting and industry experience, helping our clients solve their complex business issues from strategy to execution. Specific responsibilities include but are not limited to:
+Proactively lead the practise by setting strategy, drive the development of new business in the market, and provide technical advice across disciplines
+Building strong networks within the firm to spot and capitalise on opportunities to get involved in projects that others are leading across a number of different business units and sectors
+Identifying and discussing key issues with our clients to identify potential opportunities
+Responsibility for a majority of day to day client communications
+Responsibility to shape and deliver various projects that exceed the expectations of our clients and our own assignment quality criteria
+Manage and deliver large projects by developing the project team, assessing engagement risks throughout, driving conclusions, and reviewing / challenging the output produced by the team
+Responsibility for management of engagement financials
+Helping to grow and develop our team through hands on training and coaching
+
+Basic Qualifications
+
+Job Requirements and Preferences:
+
+Minimum Degree Required
+
+Bachelor Degree
+
+Required Fields Of Study
+
+Accounting, Finance, Management Information Systems, Management Information Systems & Accounting, Computer and Information Science, Computer and Information Science & Accounting, Economics, Economics and Finance, Economics and Finance & Technology, Business Administration/Management, Engineering, Accounting & Technology, Mathematics, Statistics, Mathematical Statistics
+
+Minimum Years Of Experience
+
+7 year(s) of experience in Master Data Governance (MDG) solutions including MDG strategy, governance strategy, data profiling and MDG architecture.
+
+Preferred Knowledge/Skills
+
+Preferred Qualifications:
+
+Demonstrates Thought Leader-level Knowledge With, And/or a Proven Record Of Success Directing Efforts In Managing Client Projects Involving One Or More Of The Following Areas
+
+SAP MDG: Designing workflows, data standards, security/access models, IDOCs, ABAP, interfaces, managing change requests, and data migration;
+Data governance framework design: Designing data standards, processes, organization, policies, developing roadmaps for design and execution, and operationalizing frameworks for large organizations;
+SAP Data Migration: Developing data strategies and data mappings through workshops, performing data analysis and identifying data quality business rules with business and IT, and designing and building data validation routines with business and IT;
+SAP Information Steward and Data Services; - SAP MM, PP, FI, or SD; and, - Business events and risk management understanding that drive data governance and MDM requirements.
+Demonstrates thought leader-level knowledge with, and/or a proven record of success directing efforts in the following areas:
+Performing as a high impact team leader, leading teams to generate a vision, establishing direction, motivating members, creating an atmosphere of trust, leveraging diverse views, coaching staff, and encouraging improvement and innovation; and,
+Advising CXO's on MDG solutions and strategies consistent with clients' business strategies.
+
+Demonstrates thought leader-level knowledge with, and/or a proven record of success directing efforts in the following areas:
+Designing and developing data models, extracting code and cleansing routines that utilize typical data quality functions, i.e. standardization, transformation, rationalization, linking and matching data that leverages data standards, processes and technology management for data, master data, and metadata;
+Developing a business vision and lead implementation efforts with complex project management capabilities;
+Generating a vision, establishing direction and motivating members, creating an atmosphere of trust, leveraging diverse views, coaching staff, and encouraging improvement and innovation;
+Applying proven facilitation abilities including managing workshops with various working groups;
+Extensively developing relationships with CXOs to generate additional business; and,
+Performing marketing/business development activities including marketing material, proposals, and client presentations.
