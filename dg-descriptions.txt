@@ -897,3 +897,480 @@ Generating a vision, establishing direction and motivating members, creating an 
 Applying proven facilitation abilities including managing workshops with various working groups;
 Extensively developing relationships with CXOs to generate additional business; and,
 Performing marketing/business development activities including marketing material, proposals, and client presentations.
+Director, Data Governance is responsible for leading a cross-functional team of business and technical leaders to establish effective and sustainable data governance operating model over shared enterprise data assets, including definition of clear roles and responsibilities for effective stewardship of corporate clinical and genomic data , development and implementation of data governance policies and procedures, data stewardship programs and data quality monitoring.
+
+Responsibilities
+Define and implement a data governance operating model to achieve business objectives
+Define and communicate roles and responsibilities within the data governance operating model
+Help build understanding of and support for data governance processes across the organization
+Manage data governance presentations, metrics, dashboards, and overall progress communications
+Identify data domain stewards and formalize data domain stewardship responsibilities
+Facilitate development and implementation of CDISC standards
+Engage data stewards for each data domain or business area and coordinate them to achieve defined program goals
+Define and communicate formal standards, policies, and processes regarding data stewardship
+Establish a repository for shared reference data, i.e. MDM and establish stewardship practices around its maintenance
+Establish a repository for critical metadata related to shared enterprise data assets, and establish stewardship practices around its maintenance
+Work with responsible parties to ensure that data standards are in place and that data dictionaries for individual data assets are sufficiently comprehensive, accurate and accessible
+Work with business functions across bluebird to build a shared business glossary and standards around shared data domains to enhance the ability to leverage data cross-functionally
+Establish working groups to ensure consistency and adoption of governance across data domains
+Create and execute on a strategic roadmap for measuring, baselining, enhancing, and sustaining data quality improvements over time
+Implement a metadata solution to efficiently catalog available data sets and elements, their definitions, relationships, and usage context
+Facilitate the development and implementation of data standards and data use standards
+Collaborate with IT and Clinical Programming to determine whether data is appropriate for storage in the data repository and establishing the process of data transmission into the data repository and its upkeep
+Work with vendors to facilitate the intake of data and to respond to questions regarding data governance
+Work closely with the Legal / Compliance team, the IT team to identify issues and effectively resolve data and compliance related problems.
+Stay up-to-date and informed on emerging practices for improving data governance practices
+Advance framework, metrics and reporting to guarantee progress can be measured, evaluated, and continually enhanced
+
+
+Knowledge, Skills, And Abilities Required
+Strong business acumen and ability to collaborate with business partners to identify needs and opportunities for improved data governance and data standards
+Strong leadership skills with ability to build and inspire teams and develop relationships with multiple stakeholder groups to drive adoption and deliver expected benefits.
+Proven ability to coordinate cross-functional teams of IT professionals, business executives, and other key stakeholders towards common goals and objectives
+Develop eCRF data standards according to CDASH
+Lead implementation of eCRF Global library
+Lead implementation of CDISC data standards
+Significant experience with development and implementation of data governance standards, processes, and solutions
+Experience with clinical data management, data dictionaries, metadata, and data quality
+Must be able to work in a highly matrixed fast-paced environment with changing priorities and deadlines
+GCP knowledge
+Strong understanding of clinical trial data
+Excellent planning, negotiation, prioritization, problem solving, and organization skills
+Able to operate in areas of uncertainty and ambiguity
+Able to think strategically and deliver tactically around all aspects of data governance
+Outstanding written and verbal communication skills in conveying vision and the practical tactics for accomplishing measurable and dependable improvements
+Strong interpersonal skills and the ability to quickly build and sustain positive relationships
+
+
+Education/Experience
+Bachelor's degree, preferably in health science or related field
+Eight to ten years of experience, preferably in a clinical data or technology role
+Experience with developing and implementing data governance policies and procedures
+Experience dealing with highly varied data sets including very large and those containing Personal Information (PI), Patient-Level Health Information (PHI), and Personal Data under the EU's General Data Protection Regulation (GDPR)
+Huntington Bank is looking for an information governance leader in our Data Technology organization. In this role you will lead a team dedicated to ensuring the proper management of data across its lifecycle. You will report to the Director of Data Technology, and work closely with the Chief Data & Analytics Office organization to influence the business and technology strategies for our long-term data governance strategy and vision for the company.
+
+If you consider data as a strategic asset, evangelize the value of good data and insights, have deep understanding of data governance, are an experienced thought-leader in data management, and love building teams and mentoring talent, this role is for you.
+
+You will be responsible for the technology side of the enterprise data governance program for the bank, including supporting next-generation capabilities as the data ecosystem matures. You will participate in the definition of the strategic roadmap for data technology and be responsible for executing data governance initiatives. You will partner with other Data Technology organization and CDAO leads to enable a safe and effective data ecosystem, as well as key leaders in business and technology to understand and support their needs while managing risk and quality.
+
+You will manage a team dedicated to information governance and data management, including data quality/controls, meta-data, data lineage, and business glossary management, as well as audit and regulatory support. You will work closely with the CDAO organization as well as other teams within data technology organization, including architecture, operational/master data management, analytics, data warehousing, and infrastructure.
+
+Key Responsibilities
+Work with the CDAO and compliance groups to define and maintain data governance guidelines, policies and procedures that support best practices for the effective use and efficient management of data
+Engage senior business and technology leadership, in conjunction with the CDAO, to help them support data governance at all levels across the enterprise; participate as a key member of the CDAO data governance and advisory council
+Coordinate the people, processes and technologies needed to manage and protect the company's data assets to guarantee generally understandable, correct, complete, trustworthy, secure and discoverable corporate data
+Manage data quality initiatives and provide thought-leadership for incorporating data controls in projects, leveraging tools, frameworks, templates, models, and best practices; Support the strategic, tactical and operational rollout of governance initiatives across enterprise, business and technical groups
+Manage the maintenance of meta-data, business glossary / data dictionary and data lineage as the authoritative source for data management operations and accessibility for business data needs
+Manage demand for and execution of regulatory reporting, audit support, and compliance requests as a portfolio of governance projects; Participate in demand management and planning, assessing impact and feasibility, and estimating work effort and duration
+Support the larger data ecosystem including data architecture, operations, data security, integration, master and reference data management, meta-data and business glossary management, data quality and controls, data warehousing, business intelligence, and producers and consumers of data
+Manage and oversee the work of a team to support data quality/controls, meta-data, business glossary, lineage and audit/regulatory support
+
+Basic Qualifications
+Bachelor's degree or military experience in related field (preferably computer science or management information systems)
+At least 5 years of hands-on experience in data governance for a financial services organization, specifically supporting enterprise data initiatives, as well as audit, regulatory and compliance needs
+At least 5 years in hands-on experience in data quality best practices, initiatives and tools
+At least 3 years in meta-data management, business glossary / data dictionary development and maintenance of data lineage
+
+Preferred Qualifications
+Experience with incorporating 'Big Data' architecture into a governance framework -- specifically data management, quality and security aspects across unstructured, streaming and real-time data architectures
+Experience with governance, management and compliance oversight (and use) of advanced analytics, machine learning (supervised and unsupervised), pattern recognition / natural language processing, and artificial intelligence approaches
+Experience with regulatory environment for Consumer/retail and commercial/business banking -- branch and digital (online/direct) banking: FDIC, Basel, CFPB, OCC, etc. Deep understanding of enterprise data warehousing best practices for technical implementation and providing business value; Thought leadership in governance of next-evolution modern data architectures
+Excellent communication and interpersonal skills for interacting and collaborating with business leaders and project staff throughout the organization
+Proven ability to take data governance guidelines and successfully implementing them across an organization
+Experience with data governance and management tools such as IBM InfoSphere platforms and tools, or equivalent; Experience in implementing industry data governance models, tools and frameworks
+What makes Gartner Research & Advisory a GREAT fit for you? When you join Gartner, you’ll be part of a leading-edge team that values expert insights, bold ideas and intellectual courage. You’ll deliver must-have research through compelling client interactions, and contribute to our double-digit growth by providing clients the unbiased insight and advice they need to make the right decisions every day. Through constant learning, discovery and collaboration, you’ll help clients deliver on their mission-critical priorities, grow your career and increase your industry impact. We value hard workers — and reward you with unlimited opportunity. If you’re looking to explore what’s next in technology and business, Gartner is looking for you.
+
+What makes Gartner Research a GREAT fit for you?
+You are a team player who values expert insights, bold ideas and intellectual courage.
+You are always learning and looking to discover what’s next in technology.
+You pursue personal excellence through team collaboration and consensus.
+If this describes you, Gartner is looking for you! Gartner is an upbeat culture based on collaboration, teamwork, integrity and objectivity that values creativity and innovation. As a Gartner analyst, you’ll not only help clients solve complex challenges and deliver on key initiatives, you’ll grow your career and the scope of your impact across industries. We work hard — and we reward success with exceptional opportunity.
+
+About This Role
+
+This role creates thought leading Data Ingestion/Integration research to our Gartner for Technical Professional clients through published research, conversations with client (Inquiry), stage presentations, teleconferences, and client meetings. It is important that you have a vision for how Data Ingestion/Integration will evolve worldwide and at a regional level.
+
+What You’ll Do
+
+As a Gartner analyst you will meet with clients every day: on the phone, in a video-conference, from the stage at a Gartner event or face-to-face during a sales support visit. In every client interaction analysts help clients solve difficult puzzles that lead to better performance. To support these conversations you will research markets, practices and trends and produce written research for Gartner clients to download and apply.
+Conduct research and analysis in specific areas of expertise targeting client’s key initiatives.
+Deliver high quality actionable advice through a variety of media.
+Write high quality, clear, actionable, advisory research documents.
+Remain ahead of the curve on developments and issues within these specified areas as well as applicable adjacent areas.
+Respond to client questions, create materials for and deliver to clients in person, via teleconference, video conference or webinar and event presentations
+Maintain the Gartner’s industry leadership reputation by responding to press inquiries
+Proactively work with the wider sales organization and deliver outstanding sales support in order to retain and grow the business
+
+What You’ll Need
+
+It helps to be obsessed with your topic! Gartner analysts are correctly viewed as THE experts. This means you need to know your markets, vendors, trends, management practices, etc. and be able to see the forest and the trees. Most Gartner analysts have many years of experience and enjoy solving puzzles.
+Subject matter expertise in Data Ingestion and Integration Strategies, with the ability to demonstrate understanding of the business applications and opportunities in that market. Knowledge of the global landscape, and the competitive interplay between incumbents, emerging providers, disruptors and outsourcers
+Strong understanding of batch and replication techniques and technologies.
+Strong understanding of streaming integration patterns for high-velocity use cases such as real-time ingestion, microservices or messaging architectures.
+Knowledge of cloud-based integration services and stand-alone iPaaS solutions.
+Knowledge of modern data integration pipeline techniques and technologies.
+Knowledge of data lake and data virtualization technologies
+Knowledge of metadata management, business glossary and data dictionary concepts
+Demonstrated superior analytical skills, applying conceptual models, recognizing patterns while drawing and defending conclusions. Strong business and financial acumen as well as analytical skills are required for this position
+Articulate and succinct communication skills. Publishing and Speaking engagements an advantage
+Minimum of 10 years of experience in a research or technology related role
+Bachelor's or equivalent experience, Master's degree preferred
+Ability to conduct occasional travel, regionally and globally
+
+About Gartner
+
+Gartner, Inc. (NYSE: IT) is the world’s leading research and advisory company. The company helps business leaders across all major functions in every industry and enterprise size with the objective insights they need to make the right decisions. Gartner’s comprehensive suite of services delivers strategic advice and proven best practices to help clients succeed in their mission-critical priorities. Gartner is headquartered in Stamford, Connecticut, USA, and has more than 13,000 associates serving clients in 11,000 enterprises in 100 countries. For more information, visit jobs.gartner.com
+
+Job Requisition ID:30540
+
+By submitting your information and application, you confirm that you have read and agree to the country or regional recruitment notice linked below applicable to your place of residence.
+PenFed is hiring a Vice President, Data Governance at our headquarters in McLean, Virginia. The primary purpose of this job is to own, lead, and steer the Enterprise Data Governance Program. This role will be responsible for Road mapping, Data Quality and Data Management. Additionally, this role will partner with other key business functions, IT and end-users in all aspects of Data Governance and Data Management.
+
+Essential Functions
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. This is not intended to be an all-inclusive list of job duties and the position will perform other duties as assigned.
+Establish Data Governance Framework (People, Process, and Technology), lines of business steward roles and operating model/functions.
+Chairs and steers the Data Governance Council.
+Develop and implement the Enterprise Data Management Policies and Procedures.
+Establish data framework (policies, procedures and guidelines), classification mappings for Data Management, Data Security, Metadata, Data Quality, and Reference Data Management.
+Establish processes for data quality escalations and their resolution.
+Serve as the primary liaison between lines of business functions, IT and business end-users in relation to Data Governance and Data Management.
+Partner and engage with lines of businesses to identify, classify and prioritize key data elements for data sourcing, integration, consumption and data protections.
+Develop and implement policies to protect customer- and business-critical data (in-motion and at-rest, structured, unstructured, etc.)
+Collaborate with subject matter experts and other stakeholders to foster a culture of managing and governing data as an enterprise asset.
+
+*This role is responsible for ensuring business continuity.*
+
+Education And Experience
+
+Equivalent combination of education and experience is considered.
+Bachelor’s Degree in a related field required.
+Master’s Degree in relevant field preferred.
+Minimum of fifteen (15) years of experience as a Data Governance leader is required. Must have extensive experience as an Executive Data Governance Officer or Steward within the financial industry.
+Minimum of five (5) years in a Director role required.
+Extensive experience in successfully leading data governance, data management, business glossary/data dictionary, data lineage, metadata and data quality initiatives.
+Expert experience with governing Enterprise Data Warehouses.
+Must have experience with Data Sourcing Requirements.
+Must have hands-on experience with Data Transformation, Data Mappings, Data Modeling and Data Quality Management.
+Deep knowledge of banking, both from lines of businesses and corporate functions (Risk, Finance, etc.) especially as they relate to Data Usage and Governance.
+Extensive experience with managing Data Quality Programs.
+Familiarity with financial systems like Hogan, Loan Origination and Servicing, data feeds, data profiling, mapping documents, data specification documents. Ability to trace data elements through their lineage and transformation as they move through systems.
+Ability to conduct gap, impact and system analysis on defined projects and continuous improvement initiatives.
+Strong communication skills with an ability to facilitate communication between internal business partners/stakeholders and external resources.
+Top financial company in NYC is growing their performance data space.  We are looking for someone who understands data management frameworks, technologies and best practices to support our expanding data management initiatives. The successful candidate will support the implementation of a firmwide data management strategy as we evolve our data infrastructure. This role requires a strong knowledge of data management frameworks, AWS, big data environments, distributed data store and data management solutions. This individual will be skilled in implementing data management frameworks leveraging people, processes and technology to automate wherever possible. This individual will be expected to work effectively with a variety of cross-functional business partners, including, business, technology, engineering, and analytics.
+
+Responsibilities:
+Manages a portfolio of activities across many functions, building a target state cloud based technology platform. 
+The position is also responsible for training, mentoring and talent development of the team, managers and supervisors.
+Lead the process for data asset acquisition and review new data requests, to ensure alignment with data governance,  data standards, data lineage, metadata management, data quality monitoring and reporting.
+Define methodologies, technologies & frameworks for identifying and governing data projects.
+You’ll be involved, hands-on, through the entire development life cycle and redefine the way our traders, portfolio managers and analysts serve our clients.
+ 
+Requirements:
+8+ years of experience in data and technology fields, including significant experience in data management, engineering and ideally performance data
+Experience with AWS, Big Data, reporting (Tableau, Qlik), NoSQL, Data store and testing
+Strong analytical and quantitative skills
+Interest in the financial services industry and desire to build knowledge of portfolio management and the markets
+Knowledge of Global Investment Performance Standards (GIPS) is a plus
+ 
+Education:
+Bachelor’s or Master’s degree in a relevant discipline, math or stats is preferred
+ORIX Corporation USA is seeking a Director of Data Solutions to join the Technology Solutions team responsible leading data solution efforts for ORIX and its affiliate companies. This individual must be a superior business and data analytics professional comfortable at all levels of big data management including sourcing, vetting, analyzing, and reporting. They must also be able to ideate, design, and execute key strategic projects and lead and mange cross-functional partners and stakeholders through the execution and delivery of that project. The candidate will lead of team of data solution team members to deliver results.
+
+The ideal candidate has expertise for seeing solutions in sprawling data sets and the business mindset to convert insights into strategic opportunities for our company. The candidate will work closely with leaders across each business unit to support and implement high-quality, data-driven decisions. They will ensure data accuracy and consistent reporting by designing and creating optimal data acquisition processes and procedures. They will use advanced data modeling, predictive modeling and analytical techniques to interpret key findings from company data and leverage these insights into initiatives that will support business outcomes.
+
+Essential Duties & Responsibilities
+Challenge the status quo and lead innovation in high quality business and technology solutions
+Design, lead and maintain innovative enterprise-wide strategic projects driving significant impact to all business units
+Enterprise Data Warehouse
+Responsible for enterprise data warehouse for ORIX and all affiliate organizations
+Responsible for data warehouse technologies for analytics, visualization, data gathering, etc.
+Develop and optimize processes for data intake, validation, mining and engineering as well as modeling, visualization and communication deliverables
+Lead strategic design of future data warehouse requirements
+Data Quality
+Ensure high quality data in data warehouse and associated databases
+Responsible for data monitoring solutions to ensure high quality measures
+Data Governance
+Lead Data Governance Team for corporate level direction on data / analytical requirements
+Ensure business alignment through governance process
+Technology Solutions
+Lead cross-functional projects using advanced data modeling and analysis techniques to discover insights that will guide strategic decisions and uncover optimization opportunities
+Responsible for team to design, develop, select and maintain state of the art technology solutions
+Innovation
+Work with CIO and select business leaders to design innovative solutions
+Design, develop and evangelize solutions that deliver business solutions with AI, Predictive Analytics, Machine Learning, etc.
+Committed to upholding and emulating the ORIX USA core values, which are Pursue Excellence, Seize Opportunity, Live Honorably, Create Value, and Thrive Together
+Other duties as assigned
+Contacts
+
+This position has frequent contact with all levels of employees and management. In addition, this role may interact with outside business partners, vendors, consultants, and other office visitors.
+
+Required
+
+Education, Skills, & Experience
+Bachelor's degree from accredited four-year university in finance, mathematics, statistics, information systems, or other business field
+10+ years of experience designing innovative data solutions for financial services organizations
+Experience managing a team of IT support professionals
+High proficiency with information management, data integration, data quality management, and dashboard design
+High proficiency with data warehouse methodologies and analytics
+Professional business image and excellent command of the English language, both verbally and in writing (spelling, grammar, and punctuation)
+Deadline driven with strong attention to detail
+Must be a strategic thinker and able to work to take strategy into actionable projects that meet business needs
+Excellent organizational, communication, and interpersonal skills
+Description Accountable for managing and overseeing the initiatives of the data management program including prioritizing work, setting milestones, reviewing progress, and reporting status. The individual will be responsible for working closely with multiple functional groups to define and lead data, business process programs and system solution projects in partnership with IT. POSITION RESPONSIBILITIES: Data Management and GovernanceEnsure solutions create centralized repositories of data that are shared as much as possible across applications and business units for conducting business off of a single source.Constantly strive for ways to reduce data management costs and optimize data valueMaintain current knowledge of new technologies and practices used in the master data process through exposure to industry practices, changing technology, and proactive networking.Implement governance to drive data quality efforts and data stewardship by the business to ensure the accuracy of information across Southern and with suppliers and customersWork with IT to design integrations of the master data to all other systems so as to drive the use of a single sourceWork closely with the BI and Advanced Analytics functions to ensure Master Data synchronization with Enterprise Data Warehouse and to monitor use of data in enterprise reportsCreate the data governance framework that meets data objectives for the organizationPerform research to formulate data governance recommendations (data ownership, management, usage rights and decision making processes, procedures)Recommend ways to strengthen data integrity, quality and availability across the organization.Design, develop, document and deploy consistent company-wide data definitions, processes and ownership guidelines for customer, supplier and item/product data elementsDefine data governance model that will establish and document data creation, update guidelines and decision rightsWithin the governance model, define data stewards within functions combining the knowledge of existing source data with the ability to determine how to transform the source information into the defined master data standard formatPolicy, Standards, and ProcessesDrive policies and procedures to drive operational efficiencies and standardization for data management.Provide business data expertise to divisions and project teams to ensure effective use of data, and processes across the organization.Apply best practice to the re-engineering of the data life cycle across item, customer , employee and supplier and across key business processes such as order to cashDevelop and manage enterprise data policies, standards, and processesFacilitate adoption of the enterprise data governance policies, procedures, and standards by providing an advisory and oversight function for all data-centric business and technology initiatives, projects and/or programsContribute to the development of data management strategies, policies and best practices through participation in management meetings and other direct contributions.Establish data quality process, governance, and effective use of issue tracking and management toolsLead the definition of To Be business processesData QualityManage the development and implementation of capabilities to improve, monitor, and audit data quality within the operations, reporting and analytics environments.Work with business and IT partners to remediate identified gaps using both manual and automated solutionsDevelop data quality metrics that identify gaps and ensure compliance with standards across the enterpriseEnsure processes are in place to proactively detect, correct, and prevent data quality issuesAssist in the creation and management of Master Data Governance Committee(s).Management/LeadershipMaintain working relationships with all levels of business leadership to ensure business needs are met.Manage direct reports, systems, and projects to achieve Data Management visionCreate an effective work environment by developing a common vision, setting clear objectives, expecting teamwork, recognizing outstanding performance, and maintaining open communications.Develops staff through coaching, providing performance feedback, providing effective performance assessments, and establishing performance & development plans. Qualifications EDUCATION: Bachelor's Degree in Business, Information Management, Information Systems, Engineering, Finance, MIS or related fieldMasters preferredEXPERIENCEExperience in implementing and sustaining a master data management discipline (meta data, data governance, data quality, processes, technologies) in a multi-billion dollar organization.Experience in retail, distribution or CPG industriesExperience, collaborating in a diverse, cross-functional corporate environmentExperience in defining business data hierarchies (Customer, Supplier or Item)Experience managing data (e.g., digital assets, customer data, product data), and business processesIT Application Development Life CycleExperience working in a multi-location organization during the execution of a multi-year, business and technology roadmap;Leading multi-million dollar programsExperience working with supplier, customer, item/product data, including experience working with industry leading master data toolsExperience developing high performing teamsTeam Player with strong attention to detail KNOWLEDGE:Proficiency using the Microsoft Office Suite in particular Excel, PowerPoint and Microsoft WordCan connect business information needs, processes and data needsSKILLS:Consultative skills that help create value for the internal and external business partnersConfident in interaction with all levels of employees and navigating organizationsStrong proactive problem solving skills, decision-making, analytical skillsExcellent interpersonal, written/oral communication skills with all levels of management and staffSelf-motivated and well organized.Proven track record; ability to handle multiple tasks, prioritize accordingly and make decisions as requiredStrong background in technology including understanding of technology architecture and strategy and good numerical analytical abilityAbility to articulate solutions clearly to senior managementAble to build and manage relationships between various user groups, technologists, and managementBe highly collaborative, team-oriented and strong consensus builderDemonstrated ability to work across regions and functions preferably in a large management consulting org.Critical thinking and problem-solvingMust have ability to recommend/influence/lead implementation of process, governance and data integration strategies.Handle multiple concurrent tasks and learn new business systems quickly.Strong interpersonal relationship skillsShould be a quick learner and self-motivated.Business acumenInfluencing outcomesFluent in SDLC - phases, common tasks and deliverablesEffective in public speaking and presentations involving any size audienceEffective in communicating with various echelons of the business (from non-technical, to highly technical, to executives)Business process modelingStrong leadership skills, particularly in the area of leading cultural change in a matrixed organization Job:Information TechnologyPrimary Location:United States-Texas-DallasOther Locations:United States-Florida-MiramarShift:Day Shift Associated topics: data administrator, data architect, data management, data scientist, data warehousing, database, erp, mongo database administrator, sybase, teradata
+This is a OUTSTANDING opportunity to develop our Data Governance framework and roll it out across multiple business units in Samsung Electronics America.  
+
+We are looking for a leader to lead the Analytics and Governance with business and users at Samsung Electronics America (SEA). The mission of the team is to enable data driven decisions within SEA. You will champion the team for the adoption and accuracy of existing products as well as developing new Business Insight (BI) solutions. You will champion analytics solution and governance cross SEA for overall success with business and users.
+ 
+You will dive deep into the details of the business, operations, and engineering. We need technical, hands-on leaders who can build and grow organizations. You’ll need to excel at hiring and developing a team of strong product managers and engineers. Our services operate at large scale and on critical workloads, so a passion and discipline around operational excellence are key. You’ll also need to be willing to share big ideas and execute to deliver the next big innovations at rapid pace. 
+
+Job Functions:
+Be a thought leader and work with the leadership teams to define KPIs.
+Define and understanding business need on analytics solutions.
+Collaborate with business teams to align on operation model, governance process, prioritize needs, and drive business rollout.
+Recruit and retain key resources on the team, inspire them to hit short-term targets and lead them in planning for long-term growth.
+Manage communication to business and users cross SEA.
+Define and implement the strategy to empower users to leverage data through training, documentation, self-service tools etc.
+Define SEA analytics governance process/model and drive its e2e implementation.
+
+Basic Qualifications
+8+ years experience of data analytics success in enterprise environment including solution rollout and governance.
+2+ years of experience in building, managing, and growing high-performance analytics teams.
+Technical leadership and engineering delivery experience in building end to end self-service proactive OSS solutions with specific focus on Metrics, Analytics, and Monitoring systems.
+Knowledge of operational metrics requirements for hyper-scale applications. Experience in eCommerce will be a plus.
+Knowledge of various analytics platforms, measurement solutions, data visualization tools, and experience using these tools to provide meaningful insight.
+Excellent written and verbal communication skills, with the ability to present complex technical information in a clear and concise manner to a variety of audiences.
+Bachelor's Degree in Computer Science or related field (or equivalent experience). 
+Coach, mentor, and train business users on how to build self-service business intelligence applications with Tableau and Alteryx leveraging best practices for data management
+Understand the goals of the Data Governance program and apply policies set by the program to business intelligence tools Tableau and Alteryx
+Educate new and existing business users on the importance of implementing and complying with the established policies and guidelines
+Observe what business users are trying to accomplish and help them learn how to design solutions that comply with governance guidelines
+Work closely with teams creating centralized data assets, understand their roadmap, and incorporate new data assets into self-service solutions
+Work closely with the technology team in applying data governance policies to Tableau and Alteryx platforms by supporting creation of business metadata, technical metadata, lineage, and data quality.
+Engage with the Tableau and Alteryx community and provide user support
+Understand demand for new capabilities from Tableau and Alteryx user community and contribute to roadmap and planning of the capability rollout in partnership with Technology team and the Vendor.
+
+What you'll have: 
+
+Must be a people person who gets excited when the education you provide results in others having success
+Experience with Agile development practices
+Experience developing applications with Tableau and Alteryx
+Excellent understanding and appreciation of how applying data governance policies contributes to better enablement of self-service
+Good understanding of Relational Databases, Business Intelligence concepts, and experience writing SQL queries to answer business questions
+Superior communication skills (written and verbal)
+Articulate and explain technical issues in simple, straightforward way that are understandable by technical as well as non-technical stakeholders
+Self-starter with outstanding organizational skills.
+Effective relationship builder--ability to partner cross-functionally, cross-enterprise and work effectively with various levels of the organization as well as various personality type
+Previous hands-on experience in data extraction, preparation and data analysis
+Reporting to the Global Director of Data Governance and Business Process in the Information Services Division (ISD) of the Company Group (Company), this Data Governance Director role will be skilled at leading and managing people, processes and technology efficiently so that Company can activate and implement the Enterprise Data Governance Program.
+Within the Chief Data Office (CDO), the Data Governance and Business Process function develops and implements a framework of policies, standards and operational procedures that help the organization continuously improve its data management capabilities, so that Company produces better products for higher prices with lower costs.
+The activation of data governance is a continuous, best-in-class program and set of processes that ensure efficient operations and excellent product quality. The need for Data Governance is driven by management and post-merger integration challenges, critical protection of the Company brand, increasing levels of regulatory oversight and risk, continuous product innovation, and a dynamic and volatile market environment with many emerging threats and disruptions.
+The main purpose of this position is to manage the newly-formed data governance team with the design, development and implementation of the data governance framework, policy, standards, procedures, processes and corresponding operations.
+The Data Governance Director will lead, drive, implement and manage a large amount of change to reduce costs and risks, to increase efficiencies and to improve products. The role will also serve as an educator to Company for data governance and business process.
+This position will present the successful applicant with many exciting opportunities in a challenging and dynamic environment with excellent prospects to hone data, information, management, and governance leadership and management expertise.
+
+Key Responsibilities
+
+Establish, govern and lead an enterprise data governance implementation roadmap including strategic priorities for development of information product-based capabilities for Company
+Lead the roll out an enterprise wide data governance framework and Data Governance Assessment and management framework, using the Data Development Lifecycle (DDLC), with a focus on improvement of data management and quality
+Ability to lead and manage staff at various levels including responsibilities to on-board, train, educate, mentor, and off-board, as necessary
+Define roles and responsibilities related to data governance and ensure clear accountability for stewardship of Companys principal data and information assets
+Lead and execute the DDLC methodology, and coordinate with other internal processes
+Serve as a senior management liaison between various functional areas and technology to ensure that data related business requirements for data are clearly defined, communicated and well understood and considered as part of operational prioritization and planning
+Develop, lead, manage and execute education and training activities related to the Enterprise Data Governance Program
+Develop and maintain inventory of the enterprise information maps, including authoritative systems and owners as part of the Policy Framework
+Development partnerships within the Chief Data Officer functional areas to ensure efficient and effective changes and other operational elements including clear dependencies and touch-points
+Facilitate the development and implementation of data quality standards, data protection standards and adoption requirements across the enterprise
+Lead definition of indicators of performance and governance quality metrics and ensure compliance with data related policies, standards, roles and responsibilities, and adoption requirements
+As needed, provide progress reports to management and oversees periodic updates to the Data Governance Roadmap and other planning materials
+Detailed understanding and experience with ability to manage Enterprise assets including Business Data Dictionaries, Glossaries and Catalogs for use within Company, as needed
+Lead the development and implementation of the framework to designate Critical Data Elements (CDEs) in a central Repository and associated business processes
+Manage and lead CDO Dashboard Reporting to support ISD and Group Level Reporting requirements.
+Act as a Senior Leader and Subject Matter Expert on Data Governance and its key principles while using industry best practices to improve efficiencies and product improvements
+Key Behaviors and Skills Required to be successful in the Role
+Working Experience
+Adequate years of experience in a major services organization, with data or project management and oversight experience.
+Demonstrated leadership and management of strategic and tactical data management initiatives in a complex business structure
+In-depth knowledge of data governance industry best practices, business and technology issues related to management of enterprise data assets and approaches related to data protection.
+Excellent understanding of business architecture, business process re-engineering and business process flows
+In-depth knowledge of data related government regulatory requirements and emerging trends and issues
+Demonstrated business and IT consulting skills, with change management and business process concepts and strategies, including communication, culture change and performance measurement system design
+Knowledge of industry best practices, market and International Organization for Standardization (ISO) Standards, and other governing bodies relevant to the role
+Detailed knowledge and experience working with relational databases, entity relationship data-modeling tools and concepts, data integration tools, data warehousing and other related data management trends.
+Experience with the risk management of data architecture and technology solutions
+Comprehensive knowledge of the documentation and management of issues related to data governance.
+Education
+Bachelors or masters Degree in Computer Science, Business Administration, Information Management or Information Sciences
+Data Quality, Management, IT, Data Science or Governance training or other relevant Certifications
+People are at the heart of what we do and drive the success of our business. Our colleagues thrive personally and professionally through our shared values of Integrity, Partnership, Innovation and Excellence are at the core of our culture. We embrace diversity and actively seek to attract people with unique backgrounds and perspectives. We are always looking at ways to become more agile so we meet the needs of our teams and customers. We believe that an inclusive collaborative workplace is pivotal to our success and supports the potential and growth of all colleagues at Company.
+A career with Company Group offers you the opportunity to be at the centre of the financial community. As well as competitive salaries and a range of attractive benefits, we maximize each employees potential through personal development plans, training, coaching and mentoring.
+Please take a moment to read this privacy notice carefully, as it describes what personal information the Company Group (We) may hold about you, what its used for, and how its obtained. If you would like this information to be removed from the Company Group HR database, please contact ___@___(apply_to_show_email). If you choose to have your information removed, you will be removed as a candidate and we will not be able to progress your application for opportunities at the Company Group.
+Think that working in the insurance field can t be exciting, rewarding and challenging? Think again. You ll help us reinvent protection and retirement to improve customers lives. We ll help you make an impact with our training and mentoring offerings. Here, you ll have the opportunity to expand and apply your skills in ways you never thought possible. And you ll have fun doing it. Join a company of individuals with hopes, plans and passions, all using and developing our talents for good, at work and in life.
+
+Job Description
+
+The role of the Technology Director is to lead the Enterprise Data Products & Platforms team within the Information Services Group (ISG) by: fostering the development of a common vision; providing clear direction and priorities; clarifying roles and responsibilities; recognizing and removing barriers to progress; encouraging and empowering others to achieve; creating enthusiasm and a desire to excel; accurately assessing the strengths and development needs of team members; giving timely, specific feedback and coaching; providing challenging assignments and opportunities.
+
+This Technology Director has a strong expertise in centralized MDM solutions, data governance, the public cloud, and has a working knowledge in tools such as Hadoop. The Technology Director will also leverage their domain expertise to navigate ambiguous environments, sets the strategic direction for their organization in support of the business objectives of the company, and lead an international team. They create a work environment that enables their employees to be their best and deliver on their accountabilities. They are personally accountable for creating organizational change, delivering business results by working across the organization and development of employees. They demonstrate a broad level of influence across the IT organization, with their business partners, peer leaders and senior leaders.
+
+Key Responsibilities
+People Management
+Accountable for creation of environment of safety and innovation within their organization. Is a role model for inclusive behaviors across all levels of employees.
+Models and creates an environment of accountability for multiple organizations, peer groups and senior leaders by setting clear performance objectives in support of business outcomes.
+Establishes vision, direction and specific objectives for multiple organizational areas and is able to successfully integrate them
+Collects multiple levels of staff performance data against desired outcomes and service level agreements ensuring that strategic outcomes at the broader organizational level are achieved.
+Coaches senior leaders on personal development. Leads organizational focus on talent development, succession management and building bench strength.
+Creates and leads change across multiple organizations in alignment with enterprise change initiatives. Uses personal influence to enlist employees and peers in implementing change.
+General Management & Decision Making
+Is a technology thought leader. Develops complex ideas and organization strategy that have long-term, strategic impact and aligns with Enterprise direction. Responsible for implementation of strategy including high level planning of work and resources across multi-year timeframe.
+Communicates strategy to the organization so they understand their roles, are motivated to achieve established goals and have line of the sight between their work and Allstate strategies. Converts thinking of others or gains acceptance of complex ideas where difficult but necessary to achieve goals and objectives.
+Leads multiple teams in achieving significant, complex assignments. Creates structures and processes that provide oversight of budgets and delivery yet allow employees freedom of action.
+Applies knowledge and efforts to diverse and complex situations, where alternatives are numerous, to drive business solutions on behalf of the organization. Makes decisions that have an impact on quality or effectiveness of business activities beyond their area of responsibility.
+Fosters innovation. Creates structures and processes that promote an environment of innovation and experimentation for direct reports, peer groups, leaders and the organization.
+Highly proficient in the business of information technology with a demonstrated understanding of technology strategy and emerging trends in the industry.
+Business Partner Management
+Leverages external industry relationships to improve the Enterprise. Serves as a representative of Allstate in the industry when necessary.
+Influences individual contributors, managers, partners, service providers, senior leaders and peers to successfully deliver on business commitments spanning multiple organizations and levels of complexity.
+Leads the process of setting and managing expectations; continually seeks opportunities to be a thought partner and increase internal and external business partner satisfaction and deepen relationships.
+Job Qualifications
+Strong expertise in centralized data assets, MDM solutions, and data governance
+Strong expertise in enterprise architecture
+Good working knowledge of the public cloud and tools such as Hadoop and Spark
+Education: Bachelors degree, Master's preferred
+Experience: 7+ years of management experience; including leading leaders; should include accountability for all aspects of leading an organization including people processes, client/partner relationships, work processes and delivery of work products.
+W2 ONLY. CLIENT CONTRACT TO HIRE. NO CORP - CORP / C2C / 3RD PARTY CANDIDATES. MUST BE VISA / OPT EAD INDEPENDENT. Overview: Director of Data Privacy will support enterprise-wide privacy and data governance and privacy function led by the Chief Privacy and Data Governance Officer. Provide leadership and direction in the area of data privacy to the organization, and will also supervise additional privacy resources. Be accountable for defining and implementing data privacy principles and controls, supporting the creation and implementation of policies, processes, and standards to ensure coordination, standardization, and alignment of business unit and employee data privacy activities. Seeking an individual who has previous experience in operations and technology projects. This is an exciting opportunity to provide support of the client imperatives that promote data privacy across a matrix organization. Role: Support a global, enterprise privacy program, including developing, implementing, evaluating, and monitoring program objectives, privacy requirements, and privacy communications. Facilitate the development and implementation of a global privacy controls framework, including monitoring, testing and adjusting of those controls as the business, legal and the security landscape evolves. Assist in the development and maintenance of policies, standards and procedures that support privacy program objectives. Work with management to identify privacy risks, trends, vulnerabilities, and researches solutions for risk mitigations. Perform execution of privacy related job functions, including privacy assessments Work closely with enterprise and business unit partners to ensure alignment with enterprise business plans and strategic initiatives with privacy principles during the design and execution process Provide domain expert support in all aspects of data privacy and protection Align and influence direction for data discovery and data inventory management to align with data privacy requirements Run program metrics and reporting which includes reports and readouts to senior leadership Qualifications: Strong interpersonal, presentation, verbal, and written communication skills with the ability to effectively interact with business partners at all levels. Extensive experience with legal and regulatory standards such as GDPR, SOX, GLBA, ISO or PCI DSS. Experience performing privacy impact assessments. Strong analytical and problem solving skills with the ability to effectively resolve moderately complex situations and issues. Ability to interpret and understand data flow diagrams. Knowledge of Microsoft Office Suite and other business-related software systems including processing systems and applications. Detail-oriented with strong project management, organization and planning skills with the ability to manage multiple projects effectively. Data governance experience. CIPP certification a plus Global data protection regulation knowledge Bachelor’s degree in related field preferred. - provided by Dice
+SUMMARY: Under the direction of the Arvest Bank CFO, and as an instrumental participant in the Data Governance Committee (DGC), the Director of Strategic Data Management is responsible for institutionalizing data governance strategy, policies, processes, toolsets, and organizational changes that enable enterprise data governance and managing data as an asset of the company. The incumbent will facilitate and coordinate Data Owners and Data Stewards in multiple business units and departments, ensure the creation and execution of standardized processes/tool related to data governance, and refine the ongoing data governance strategy. The incumbent will assist with the organizational roll-out of an Enterprise Data Strategy to ensure data quality and trustworthiness. The incumbent will act as a liaison between business units and the DGC and will also provide on-going guidance support for the organization's management of data to ensure successful governance and best practices.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be assigned.
+Support the Data Governance Owner (Arvest Bank CFO) by turning established data governance strategy and objectives into tactical implementation and execution of processes, tools, and organizational change.
+Prepare content, coordinate, facilitate, and perform follow-up activities for Data Governance Committee meetings.
+Establish, coordinate, and manage the task execution of tactical working groups established by the DGC.
+Perform cross-business department coordination efforts by Data Owners and Data Stewards.
+Act as a primary point of training for Data Owners and Data Stewards.
+Act as final reviewer and coordination point for enterprise-wide master data management and metadata management efforts (data definitions, processes, tools, strategy, etc.).
+Assist with the creation of data governance processes and policies and coordinate roll-out and assurance activities with Data Owners.
+Create, institutionalize, and assure data management best practices within the enterprise.
+Provide guidance and drive selection of tools/platforms to enable enterprise data governance.
+Collaborate with business and Information Technology leaders to establish and maintain a data governance roadmap through a deep understanding of the current state and the evolving business requirements for enterprise data governance needs (facilitate prioritization, manage/maintain progress reporting, refine and enhance over time).
+Work in partnership with business units and other departments to understand key data governance performance indicators and how those indicators translate into on-going data governance enhancements and refinements.
+Apply creative problem-solving skills to data governance efforts in a way that satisfies business leaders' needs and lays the groundwork for future successes.
+Communicate technical data architecture, data governance strategy, and standards/processes in a concise and easily understood format by both technical and non-technical personnel.
+Ensure that key data governance artifacts (documentation, definitions, processes, policies, etc.) are created, controlled, managed, and maintained over time.
+Engage with 3rd party consultants and domain experts to achieve goals.
+Establish and report data quality and data governance metrics to the DGC and stakeholders.
+Understand and comply with bank policy, laws, regulations, and the bank's BSA/AML Program, as applicable to your job duties. This includes but is not limited to; complete compliance training and adhere to internal procedures and controls; report any known violations of compliance policy, laws, or regulations and report any suspicious customer and/or account activity.
+
+Team Accountabilities
+Support and uphold the Arvest Mission Statement.
+Uphold the Arvest Code of Ethics and ensure that confidential information is safeguarded.
+Maintain a high level of cooperation and rapport with all associates in order to ensure accurate and efficient operations and service.
+Formulate and communicate new ideas and suggestions that will improve profitability and efficiency for the company's overall operation.
+Foster and promote the proper company image at all times.
+
+
+Supervisory Responsibilities
+
+Directly supervises one or more associates as assigned by the Manager. Carries out supervisory responsibilities in accordance with the organization's policies and applicable laws. Ensure direct reports have completed required compliance training and are adhering to all internal procedures and controls as it relates to bank policy, laws, regulations and Arvest's BSA/AML Program. Responsibilities include interviewing, hiring, appraising performance, rewarding, and disciplining associates. The incumbent has the authority and the appropriate influence to make recommendations regarding hiring, firing, advancement, promotion, or any other change of status of other associates within the guidelines of the bank's procedures and guidelines for such change of status events. The incumbent provides training, planning, assigning, and directing work assignments and schedules; addressing complaints and resolving problems.
+
+Position Requirements
+
+Qualification Requirements
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable qualified individuals with disabilities to perform the essential functions.
+
+EDUCATION And/or EXPERIENCE
+Bachelor’s Degree in Business, Finance, Information Systems, or other related fields.
+10 years working experience with the business and technical aspects of data governance, data integration/warehousing, and data and metadata management implementations required.
+Hands-on experience working with complex database structures and systems required.
+Technical expertise to interpret and document data warehouse design, ETL Processes, and field level definitions required.
+Exceptional communications skills to work closely with business leaders required.
+Proven ability to resolve complex problems across multiple business stakeholders in an effective and timely manner required.
+Arvest experience preferred.
+Demonstrated understanding of project coordination/management preferred.
+Prior banking experience preferred.
+
+Other Skills And Abilities
+Must be able to arrive at work on time, work on site and have regular work attendance
+Must be able to work cooperatively with other co-workers regardless of personality, presence or communication style
+Must be able to provide cordial customer service regardless of customer personality, presence or communication style
+Must be able to perform several tasks at once
+Must be able to work in a stressful atmosphere
+Must be able to rotate job tasks
+Must be able to greet others cordially
+Must be able to coordinate multiple and changing priorities
+Must be able to verbally communicate with all other associates
+Must be able to operate telephone, scanner, copier and FAX machines
+Must be able to occasionally work outside of normal business hours.
+Must be able to move from department, division, or bank to department, division, or bank to attend meetings
+Must be able to operate personal computer keyboard in order to create reports, schedules and other appropriate documentation
+
+Physical Demands
+
+The physical demands described here are representative of those that must be met by an associate to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable qualified individuals with disabilities to perform the essential functions.
+
+While performing the duties of this job, the associate is regularly required to stand, walk, sit, and to talk and hear. The associate must occasionally reach with hands and arms; stoop, kneel, or crouch.
+
+The associate may occasionally be required to lift or move up to 25 pounds.
+
+Specific vision abilities required by this job include close, distance and color vision and the ability to adjust focus.
+Lead all aspects of the data management function by contributing to data management strategic decisions and executing day to day activities required to create and maintain quality clinical databases.
+Job Duties
+Contribute towards process improvement, data standards and efficiency gaining initiatives.
+Participate in technology improvement/implementation efforts.
+ Develop and execute data management plans and other data management documentation across all studies to ensure consistency.
+Coordinate, facilitate, and participate in all data management activities during the study lifecycle.
+Provide leadership to assigned staff by leading organizational change; developing and empowering staff; cultivating relationships; putting staff in a position to succeed, meeting their personal career goals while also achieving organizational goals; building effective teams that apply their diverse skills and perspectives to achieve common goals; driving engagement and creating a climate where staff are motivated to do their best.
+Run data checks and identify data queries.
+Specify and create new queries and reports to assist the data review process.
+Monitor and report on the database status in terms of enrolment, open and resolved queries, and other metrics.
+Coordinate database validation activities as requested.
+Execute data export activities and building SDTM compliant databases in SAS.
+Import data from external databases into REDCap databases.
+Interact with database entry, management, and clinical staff as needed to assist in resolving questions and issues.
+
+ 
+Education and Experience
+Bachelor’s degree in data management, database programming, clinical trials or a related field. 5 years of data management experience. Experience with one or more database products and SQL. Experience programming in SAS, REDCap database, SDTM and CDISC database standards, PHP Scripting, and HTML are preferred but not required.
+
+Knowledge, Skills, and Abilities
+Advanced knowledge of Data Management processes and systems including new technologies, and proven leadership skills within a data management function, Good knowledge of SDTM requirements. Excellent organizational skills and demonstrated ability to delegate and monitor quality of outputs. Ability to establish and maintain effective internal and external working relationships. Ability to effectively apply knowledge and skills in a highly-organized fashion while adhering to regulatory guidelines, Standard Operating Procedures and customer expectations. Ability to act as an expert for Data Management processes.
+The Associate Director, Data Management will be responsible for leading the planning, oversight and implementation of data collection, cleaning and locking for clinical trials across multiple programs. The incumbent will lead a team in providing oversight of the development of documents for clinical research studies, including protocols, case report forms, and standard operating procedures and will play a critical role in selection of the CRO that is responsible for study implementation and execution of the supporting electronic data capture (EDC) system.
+
+Essential Functions
+Establish and lead Clinical Data Management function at Revance while overseeing CRO’s data management activities that support ongoing clinical programs
+Actively participate in Biometrics function to support key functions within Clinical Development group, including Clinical Operations and Clinical Science
+Lead development of Data Management Plan (DMP) across programs and maintain throughout lifecycle of study project to ensure DMP is followed according to study design and requirements.
+Review clinical research documents (eg. Protocols, Case Report Forms, Reports and Statistical analysis).
+Lead EDC database (DB) specification process internally
+Review / Develop database (DB) clinical trial data specifications, including eCRF design, user requirements, edit rules/checks, query logic and data validations.
+Review / Develop Data Transfer Agreement(s) (DTAs) between external data vendors and/or core labs.
+Reconcile electronic data transfers from vendor to Sponsor.
+Oversee the User Acceptance Testing (UAT) by CRO and Coordinating UAT of eCRF build and validation documents, included but not limited to: edit check document, issue logs, UAT summary report.
+Maintenance/tracking of EDC user management and other Clinical databases across allocated Clinical trials, including but not limited to, compiling master user.
+Ensure clinical data within EDC is in quality to lock/unlock and freeze/unfreeze as appropriate for statistical review, interim review, and or final database lock- included but not limited to: data reconciliation and/or coding.
+Assist in defining and/or creating data listings, summary table validation, data specifications and/or process data transfers in preparation for statistical review and/or data management audit.
+Perform close-out audit, as specified, for closing of study trial in EDC or other clinical data management DBs.
+Assist in reconciling AE/SAE data in Safety DB and/or other Data Management DB
+Coordinate and communicate with DB vendors on consistent basis to address Clinical teams requests, project plans, and/or eCRF development activities.
+Participates in the preparation and presentation of data, when applicable.
+Ensures data system compliance by following the established guidelines of national and international regulatory authorities.
+
+Required Education And Experience
+Bachelor or Master degree in a science related field.
+Established leadership presence and successful track record of building and leading teams
+At least Six (6) years data management and/or related work experience on Phase I- IV study trials in a pharmaceutical industry/clinical research company.
+Prior experience filing a BLA or NDA required
+Demonstrated leadership in a cross-functional team setting
+Clinical research, Clinical trial process and related regulatory requirements and terminology.
+Working knowledge of Clinical database applications such as EDC, CTMS, RAVE
+Excellent verbal and written skills, good organizational, interpersonal, and team skills.
+
+Skills Requirement
+Ability to think creatively to solve problems in a fast-paced environment
+Well-tested team player who drives for results
+Applicable knowledge working with other clinical databases such as Oracle Clinical, SAS, other.
+AE Coding, if applicable.
+Excellent technical skills with MS Word, MS Excel, MS Power Point, and/or RAVE
+Possess experience in Data Management Plan, Data Edit Check Standards
+Ability to prioritize and to manage multiple tasks as necessary.
+High customer orientation awareness and focus.
