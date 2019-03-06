@@ -1,0 +1,115 @@
+﻿Troy Perment
+214-991-8185
+Troy_perment@yahoo.com
+
+Director, Enterprise Data Governance - Summary
+Business Technology Director with +15 years of experience in data management, MDM, data architecture, data governance and data analytics. Works well in fast paced environments, sees the big picture. Excels at working with business partners on data strategy, setting data standards and data policies with focus on data quality and best practices. Team builder with a strong understanding of people, information systems, information management and processes. I love problem solving. 
+
+•	STRATEGY – Engages in cross functional work with business units to design data governance programs & manage data stewardship practices. Uses strong interpersonal skills to accomplish measurable goals.
+
+•	PEOPLE MANAGEMENT – Uses good communication and relationship building to identify and mentor talent and assign roles and responsibilities according to ability. Manages direct reports and matrix team structures. 
+
+•	ANALYTICS - Leverages data analytics to facilitate development and monitoring of data programs and quality of data assets. Rich business intelligence and visualization platform experience using Tableau.
+
+•	TECHNICAL – Continues to be a tactical hands-on architect as needed by scripting in Python, Swift and other object oriented languages like Java, building Hadoop clusters, data lakes in GCP(Google Cloud Platform), Azure and AWS and working data using modern tools like Apache Ranger, Atlas, Hive and HBASE alongside with traditional tools like SQL Server, Oracle Exadata, Teradata and Paxata. 
+
+Experience
+
+DIRECTOR, DATA GOVERNANCE, ADVANCED ANALYTICS & INFORMATICS, VIZIENT – HEALTHCARE 2014 – PRESENT (5 YEARS)
+·	Responsible for setting strategy, and roadmap for enterprise data and data products and decision making on approach to data usage.
+·	Develop, establish and implement data governance policies, using my data governance framework to manage data assets and customer data use.
+·	Spearheading the enterprise Data Governance initiative to facilitate application development and implementation.
+·	Lead data stewards for clinical data quality, metadata management, and master data management according to HIPAA, PHI & GDPR and the California Consumer Privacy Act (CCPA).
+·	Lead cross-functional teams with direct reports to improve data domain, customer data, business glossary and data dictionary.
+·	Thought leader and trusted advisor to executive level including SVP, VP, and AVP’s due to subject matter expertise in data management, data protection and data governance.
+·	Lead transformation in data management through execution of a Data Governance Framework including Data Governance Council, MDM teams, data stewardship programs.
+·	Lead project teams, working as project manager to execute enterprise wide data initiatives including cloud migration and big data.
+Tools: Hadoop HDFS, Hive, Pig, Ranger, Atlas, Ambari, Lucidcharts, Paxata, Tibco EBX(Orchestra), Python, Xcode, Swift, Salesforce, Sharepoint, HTML, JSON, Linux. 
+
+DIRECTOR, ENTERPRISE ARCHITECTURE, APPLICATION DEVELOPMENT, VIZIENT - HEALTHCARE
+·	Lead enterprise architecture team in implementing business engineering principles and processes for application development. 
+·	Responsible for defining enterprise architecture EA data strategy,  data platforms and decision making regarding all corporate data.
+·	Devised data strategy using emerging technologies and methodologies– Hadoop HDFS (Hortonworks). 
+·	Put in place plans for implementation and maintenance of large scale software systems leveraging project management skills. 
+·	Oversee enterprise architecture(EA) implementations to deliver high quality business technology systems and streamline software development.
+·	Manage team of enterprise architects, business system owners work with department heads in solutions architecture.
+Tools: Hadoop HDFS, Visio, Power Point, MS Project, Lucidcharts
+  
+Principle Data Architect, ENTERPRISE DATA ARCHITECTURE, TECHNICAL DEVELOPMENT, VIZIENT - HEALTHCARE
+·	Develop and maintain sets of architecture solutions and architectural patterns. 
+·	Using strategic thinking, develop service oriented architecture(SOA) and standards and advise executive management.
+·	Design technology solutions to support the data strategy. 
+·	Create future state diagrams of database systems and data flows including data lineage. 
+·	Served as Subject Matter Expert regarding clinical data and metadata management using good communication skills. 
+·	Support technology transformation & development of implementation plans by combining business requirements and emerging technology.
+Tools: SQL Server, Oracle Exadata, Visio, Excel, Word, MS Project
+
+
+Business Owner, Data Strategy, Data Services & Project Management, 2009-2014 (5 YEARS) 
+
+Google (Formerly Softcard)-Solutions Architect, Data Management – IT Services
+·	Worked to create data governance policies and metadata management leveraging communication skills.
+·	Design, document, implement data stewardship practices and data management techniques using subject matter expertise. 
+·	Extract and reconcile data to develop & implement business rules for data quality and management analytics.
+·	Review and evaluate business initiatives and project activities for compliance with data policy and data quality standards.
+Tools: Excel, Word, Visio, Power Point
+
+General Motors -Systems Architect, IT Business Intelligence – Financial Services
+·	Guided information technology team using project management skills and problem solving to develop solutions.
+·	Documented and enforced best practices & data management rules.
+·	Adapt business requirements to business technology solutions.
+Tools: Informatica, Visio, Excel, Word, Visio, Power Point, Data Vault, ERWin, Enterprise Architect, Oracle PL/SQL, AS/400, UML
+
+CVent - Data Architect, IT – Hospitality
+·	Managed SQL Server data warehouses, data marts and ETL processes to ensure high availability of data for data analysis team.
+·	Managed development of test documentation requirements supporting enterprise data architecture and database management operations.
+·	Design & implement ETL processes to migrate data warehouses.
+·	Write and optimize code to support data strategy.
+Tools: Microsoft SQL Server, SSIS
+
+Oncor Electric Delivery Business Analyst, AMS Operations - Energy
+·	Developed and implemented data warehouses and data mart.
+·	Coached technical teams in database management operations.
+·	Performed data analysis discover patterns and understand problems.
+·	Worked in project management and develop scalable data warehouse and reporting system for decision making.
+Tools: Oracle, MS Access, batch files, SQL query, Toad, PL/SQL, DB2, Polaris, Cognos, Informix, Visual Basic
+
+Texas Instruments, Business Intelligence - Manufacturing
+·	Developed reports using Business Objects to report financial, human resource data & KPI's.
+·	Analyzed data & BI reporting requirements & implement them through existing BI architecture.
+·	Developed training material & taught courses in support of business application systems.
+Tools: Business Objects, VIM, command line, PL/SQL, HTML
+
+Business Systems Analyst, Strategic Database Services, Alliance Data – Advertising, Marketing
+·	Employed data mining & reporting techniques using Oracle (Toad, PL/SQL), Cognos & database tools.
+·	Conduct user research to facilitate software development and implementation. 
+·	Manage projects, served as project manager on mid-sized projects of less than $1mil. 
+Tools: Oracle, Toad, PL/SQL
+
+SR TECHNICAL CONSULTANT, FISERV— Financial Services, 2006-2009  (3 YEARS)
+·	Analyze data and processes to make recommendations for process improvement.
+·	Develop reports, stored procedures & queries using SQL Server.
+·	Work in back-end software development on software applications for client decision making. 
+·	Design, build & test integration processes with client data feeds including FTP to support business strategy and data strategy connection.
+Tools: DB2 mainframe, Oracle, XML, SQL Server
+
+DATA ANALYST, PEPSICO/FRITO-LAY— Logistics & Transportation 2005-2006 (1 YEAR)
+·	Extracted data from DB2 & databases with SQL queries to model delivery optimization strategies adhering to MDM framework.
+·	Developed training materials used to instruct users on system enhancements & build online training tool.
+·	Scripted file conversion program creating XML uploads for i2 transportation systems using Visual Basic.
+
+DATABASE ADMINISTRATOR, TE CONNECTIVITY - Manufacturing— 2004-2005 (1 YEAR)
+·	Managed & developed object oriented databases & software applications and webpages.
+·	Analyzed data & produced business intelligence in Excel & Access with pivot tables, charts and dashboards.
+
+CLAIMS GRIEVANCE & APPEALS ANALYST, VALUEOPTIONS— Insurance, Healthcare 2000-2004 (4 YEARS)
+·	Answered letters, emails and calls regarding healthcare insurance grievances. 
+
+CUSTOMER SERVICE REP, BLUE CROSS BLUE SHIELD— Insurance, Healthcare 1998-2000 (2 YEARS)
+·	Call center- Resolved issues about billing & insurances with hospitals & medical staff. 
+
+Education
+B.S. Business Computer Information Systems, University of North Texas – Denton TX (2006)
+A.S. Business Administration, State University of New York - Troy, NY (2001)
+Technical Stack
+	Python, Hadoop(HDFS) Pig, Hive, ElasticSearch, Swift, Ranger, AWS, Azure, SQL Server, Oracle, DB2, T-SQL, PL/SQL HTML,Power Point, Visio, Excel, Tableau, Business Objects, Java, Visual Basic, XML, JSON, Object-Oriented Programing, COBOL, SAS, Apache HBASE, 
