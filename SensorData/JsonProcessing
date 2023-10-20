@@ -1,0 +1,26 @@
+import json
+from time import sleep
+from json import dumps
+from kafka import KafkaProducer
+#this is for accelerometer data
+topic_name='sensor_data_consumer'
+producer = KafkaProducer(bootstrap_servers=['54.159.58.15:9092']
+,value_serializer=lambda x: dumps(x).encode('utf-8'))
+
+def lambda_handler(event, context):
+    # TODO implement
+    print(event)
+    payload_part=json.loads(event['body'])['payload']
+    for i in payload_part:
+        accelz=i['values']['z']
+        accelx=i['values']['x']
+        accely=i['values']['y']
+        capture_time=i['time']
+        data={"accelz":accelz,"accelx":accelx,"accely":accely,"capture_time":capture_time}
+        print(data)
+        producer.send(topic_name, value=data)
+    producer.flush()
+    return {
+        'statusCode': 200,
+        'body': json.dumps('Hello from Lambda!')
+    }
