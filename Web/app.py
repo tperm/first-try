@@ -2,20 +2,22 @@ from flask import Flask, request, render_template, redirect
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'
+#app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://troyperment@localhost:5432/ph1'
 db = SQLAlchemy(app)
 
-class FormData(db.Model):
+class Broker(db.Model):
+    __tablename__ = 'brokers'
     id = db.Column(db.Integer, primary_key=True)
-    first_name = db.Column(db.String(200), nullable=False)
-    last_name = db.Column(db.String(200), nullable=False)
+    firstname = db.Column(db.String(200), nullable=False)
+    lastname = db.Column(db.String(200), nullable=False)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
-        first_name = request.form['first_name']
-        last_name = request.form['last_name']
-        data = FormData(first_name=first_name, last_name=last_name)
+        firstname = request.form['firstname']
+        lastname = request.form['lastname']
+        data = Broker(firstname=firstname, lastname=lastname)
         
         db.session.add(data)
         db.session.commit()
