@@ -3,7 +3,7 @@ import psycopg2
 import argparse
 import sys 
 
-def createtabledupe(dbname, csvfilepath, csvfilename, user, host, port, schema='raw'):
+def create_table_csv(dbname, csvfilepath, csvfilename, user, host, port, schema):
     # Connect to the PostgreSQL server
     conn = psycopg2.connect(dbname=dbname, user=user, password='', host=host, port=port)
     cur = conn.cursor()
@@ -42,7 +42,7 @@ def createtabledupe(dbname, csvfilepath, csvfilename, user, host, port, schema='
     # Close the cursor and the connection
     cur.close()
     conn.close()
-    return(dbname, fullfilepath, table_name, user, host, port, schema)
+    return (table_name)
 
 
 
@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     #createtabledupe(args.dbname, args.csvfilepath, args.csvfilename, args.user, args.host, args.port)
-    results = createtabledupe(args.dbname, args.csvfilepath, args.csvfilename, args.user, args.host, args.port, args.schema)
+    results = create_table_csv(args.dbname, args.csvfilepath, args.csvfilename, args.user, args.host, args.port, args.schema)
     
     # Print or use the returned values
     print(f"dbname: {results[0]}")
