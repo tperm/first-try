@@ -1,6 +1,7 @@
 import csv
-from icalendar import Event, Calendar
-from datetime import datetime
+from icalendar import Event, Calendar, Alarm
+from datetime import datetime, timedelta
+
 
 # Load schedules from the CSV input
 schedules = []
@@ -15,7 +16,8 @@ for schedule in schedules:
     cal = Calendar()
 
     event = Event()
-    event.add('summary', schedule['name'])
+    event.add('summary', schedule['summary'])
+    event.add('description', row['description'])
 
     # Assuming start date is today. Adjust if needed.
     start_time = datetime.combine(datetime.today(), datetime.strptime(schedule['start_time'], "%H:%M").time())
@@ -23,6 +25,11 @@ for schedule in schedules:
 
     event.add('dtstart', start_time)
     event.add('dtend', end_time)
+    alarm = Alarm()
+    alarm.add('action', 'DISPLAY')
+    alarm.add('description', 'Reminder for the important meeting')
+    alarm.add('trigger', timedelta(minutes=-15))
+    event.add_component(alarm)
 
     # Add recurrence rule if the event is repeating
     freq = schedule['freq'].upper()
@@ -40,6 +47,6 @@ for schedule in schedules:
     cal.add_component(event)
 
     # Save to a unique .ics file based on the event name
-    filename = '/Users/troyperment/Development/DataFiles/output/' +schedule['name'].replace(' ', '_') + ".ics"
+    filename = '/Users/troyperment/Development/DataFiles/output/' +schedule['summary'].replace(' ', '_') + ".ics"
     with open(filename, "wb") as f:
         f.write(cal.to_ical())
