@@ -3,7 +3,7 @@ from load_table import load_table
 
 dbname = 'ph1'
 csvfilepath = '/Users/troyperment/Development/awscloudsync-laptop/'
-csvfilename = 'brokerages'
+csvfilename = 'broker'
 user = 'troyperment'
 host = 'localhost'
 port = '5432'

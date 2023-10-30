@@ -20,7 +20,7 @@ def create_table_csv(dbname, csvfilepath, csvfilename, user, host, port, schema)
 
         # We'll check the first 5 rows to infer the data type.
         # Adjust this number as needed.
-        for _ in range(5):
+        for _ in range(1):
             row = next(reader)
             for col in columns:
                 column_type = 'VARCHAR'
